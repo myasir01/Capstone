@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-boxscores>
+    <date year="2011" month="7" date="13" day="3"/>
+    <time hour="16" minute="03" second="12" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="3"/>
+    <league global-id="58" name="UEFA Champions" alias="CHLG" display-name=""/>
+    <season year="2011" id="1" description="2011 UEFA Champions"/>
+     <soccer-ifb-boxscores>
+      <ifb-boxscore>
+         <finalbox finalbox="true" />
+         <date year="2011" month="7" date="13" day="3"/>
+         <time hour="14" minute="00" timezone="Eastern"/>
+         <local-game-date year="2011" month="7" date="13" day="3"/>
+         <local-time hour="20" minute="00"/>
+         <gamecode global-code="1068032" code="2011071312751"/>
+         <coverage level="0"/>
+         <aggregate-partner-game global-code="1068049"/>
+         <game-type id="31" description="Second Qualifying Rd"/>
+         <week week="2"/>
+         <gamestate status-id="4" status="Final" period="2" minutes="" seconds="" additional-minutes=""/>
+         <stadium global-id="9966" id="2892" name="Skenderbeu Stadium"/>
+         <match-number number=""/>
+         <visiting-team>
+            <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+            <team primary-color="" shorts-color=""/>
+           <record wins="1" ties="0" losses="0"/>
+            <linescore score="2" shots="">
+               <half half="1" score="" shots=""/>
+               <half half="2" score="" shots=""/>
+            </linescore>
+            <formation formation=""/>
+         </visiting-team>
+         <home-team>
+            <team-info global-id="23984" id="2751" location="Skenderbeu Korce" name="" alias="KOR" display-name="Skenderbeu Korce"/>
+            <team primary-color="" shorts-color=""/>
+           <record wins="0" ties="0" losses="1"/>
+            <linescore score="0" shots="">
+               <half half="1" score="" shots=""/>
+               <half half="2" score="" shots=""/>
+            </linescore>
+            <formation formation=""/>
+         </home-team>
+         <half-details>
+           <half-detail half="1">
+             <goals>
+             </goals>
+             <shots>
+             </shots>
+             <substitutions>
+             </substitutions>
+             <red-cards>
+             </red-cards>
+             <yellow-cards>
+             </yellow-cards>
+           </half-detail>
+           <half-detail half="2">
+             <goals>
+             </goals>
+             <shots>
+             </shots>
+             <substitutions>
+             </substitutions>
+             <red-cards>
+             </red-cards>
+             <yellow-cards>
+             </yellow-cards>
+           </half-detail>
+         </half-details>
+         <team-stats team="visitors">
+           <minutes minutes="90"/>
+           <goals goals="2"/>
+           <assists assists=""/>
+           <shots shots=""/>
+           <shots-on-goal shots=""/>
+           <saves saves="0"/>
+           <penalty-kick-attempts attempts=""/>
+           <penalty-kick-goals goals="0"/>
+           <crosses crosses=""/>
+           <fouls-committed fouls=""/>
+           <offsides offsides=""/>
+           <corner-kicks corner-kicks=""/>
+           <yellow-cards yellow-cards=""/>
+           <red-cards red-cards="0"/>
+           <clears clears=""/>
+           <penalty-shootout goals=""/>
+           <touches total="" passes="" interceptions="" blocks=""/>
+           <catches catches="0"/>
+           <tackles tackles=""/>
+           <attacks long-ball="0" left="0" center="0" right="0"/>
+           <possession percent=""/>
+         </team-stats>
+         <team-stats team="home">
+           <minutes minutes="90"/>
+           <goals goals="0"/>
+           <assists assists=""/>
+           <shots shots=""/>
+           <shots-on-goal shots=""/>
+           <saves saves="0"/>
+           <penalty-kick-attempts attempts=""/>
+           <penalty-kick-goals goals="0"/>
+           <crosses crosses=""/>
+           <fouls-committed fouls=""/>
+           <offsides offsides=""/>
+           <corner-kicks corner-kicks=""/>
+           <yellow-cards yellow-cards=""/>
+           <red-cards red-cards="0"/>
+           <clears clears=""/>
+           <penalty-shootout goals=""/>
+           <touches total="" passes="" interceptions="" blocks=""/>
+           <catches catches="0"/>
+           <tackles tackles=""/>
+           <attacks long-ball="0" left="0" center="0" right="0"/>
+           <possession percent=""/>
+         </team-stats>
+         <goaltenders team="visitors">
+         </goaltenders>
+         <goaltenders team="home">
+         </goaltenders>
+         <players team="visitors">
+         </players>
+         <players team="home">
+         </players>
+         <bench team="visitors">
+         </bench>
+         <bench team="home">
+         </bench>
+         <attendance attendance=""/>
+         <referee id="" name=""/>
+         <referee-assistant id="" assistant=""/>
+         <referee-assistant id="" assistant=""/>
+         <fourth-official id="" official=""/>
+         <weather temperature="" description=""/>
+      </ifb-boxscore>
+     </soccer-ifb-boxscores>
+  </sports-boxscores>
+</sports-statistics>

@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-boxscores>
+    <date year="2011" month="9" date="13" day="2"/>
+    <time hour="17" minute="10" second="03" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="4"/>
+    <league global-id="58" name="UEFA Champions" alias="CHLG" display-name=""/>
+    <season year="2011" id="1" description="2011 UEFA Champions"/>
+     <soccer-ifb-boxscores>
+      <ifb-boxscore>
+         <finalbox finalbox="true" />
+         <date year="2011" month="9" date="13" day="2"/>
+         <time hour="14" minute="45" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+         <local-game-date year="2011" month="9" date="13" day="2"/>
+         <local-time hour="21" minute="45"/>
+         <gamecode global-code="1151826" code="2011091310965"/>
+         <coverage level="5"/>
+         <aggregate-partner-game global-code=""/>
+         <game-type id="7" description="Group Stage"/>
+         <week week="9"/>
+         <gamestate status-id="4" status="Final" period="2" minutes="" seconds="" additional-minutes=""/>
+         <stadium global-id="6302" id="694" name="GSP"/>
+         <match-number number=""/>
+         <visiting-team>
+            <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+            <team primary-color="FFFFFF" shorts-color="FFFFFF"/>
+           <record wins="0" ties="0" losses="1"/>
+            <group id="17" group="Group G"/>
+            <linescore score="1" shots="18">
+               <half half="1" score="0" shots="6"/>
+               <half half="2" score="1" shots="12"/>
+            </linescore>
+            <formation formation="5-3-2"/>
+         </visiting-team>
+         <home-team>
+            <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+            <team primary-color="FFFF00" shorts-color="0000FF"/>
+           <record wins="5" ties="1" losses="1"/>
+            <group id="17" group="Group G"/>
+            <linescore score="2" shots="11">
+               <half half="1" score="0" shots="6"/>
+               <half half="2" score="2" shots="5"/>
+            </linescore>
+            <formation formation="4-2-3-1"/>
+         </home-team>
+         <half-details>
+           <half-detail half="1">
+             <goals>
+             </goals>
+             <shots>
+               <shot>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <name first-name="Gustavo" last-name="Manduca" shirt-name="" full-first="Gustavo" full-last="Manduca"/>
+                 <player-code global-id="349079" id="43890"/>
+                 <time minutes="9" seconds="2" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="28" description="Blocked"/>
+                 <field  area="VI8" />
+               </shot>
+               <shot>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <name first-name="Ivan" last-name="Trickovski" shirt-name="" full-first="Ivan" full-last="Trickovski"/>
+                 <player-code global-id="418171" id="66549"/>
+                 <time minutes="21" seconds="1" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VJ14" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Alexander" last-name="Kerzhakov" shirt-name="" full-first="Alexander" full-last="Kerzhakov"/>
+                 <player-code global-id="367842" id="15567"/>
+                 <time minutes="23" seconds="30" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HH14" />
+               </shot>
+               <shot>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <name first-name="Ailton Jose" last-name="Almeida" shirt-name="" full-first="Ailton Jose" full-last="Almeida"/>
+                 <player-code global-id="415182" id="64885"/>
+                 <time minutes="25" seconds="7" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="16" description="Parried"/>
+                 <field  area="VL8" />
+               </shot>
+               <shot>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <name first-name="Gustavo" last-name="Manduca" shirt-name="" full-first="Gustavo" full-last="Manduca"/>
+                 <player-code global-id="349079" id="43890"/>
+                 <time minutes="28" seconds="2" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="1" description="Catch"/>
+                 <field  area="VS6" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Alexander" last-name="Kerzhakov" shirt-name="" full-first="Alexander" full-last="Kerzhakov"/>
+                 <player-code global-id="367842" id="15567"/>
+                 <time minutes="33" seconds="11" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="28" description="Blocked"/>
+                 <field  area="HI12" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Nicolas" last-name="Lombaerts" shirt-name="" full-first="Nicolas" full-last="Lombaerts"/>
+                 <player-code global-id="347082" id="80496"/>
+                 <time minutes="35" seconds="13" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="" description=""/>
+                 <field  area="HJ5" />
+               </shot>
+               <shot>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <name first-name="Ivan" last-name="Trickovski" shirt-name="" full-first="Ivan" full-last="Trickovski"/>
+                 <player-code global-id="418171" id="66549"/>
+                 <time minutes="38" seconds="35" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VJ9" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Alexander" last-name="Kerzhakov" shirt-name="" full-first="Alexander" full-last="Kerzhakov"/>
+                 <player-code global-id="367842" id="15567"/>
+                 <time minutes="39" seconds="19" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="28" description="Blocked"/>
+                 <field  area="HM14" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Domenico" last-name="Criscito" shirt-name="" full-first="Domenico" full-last="Criscito"/>
+                 <player-code global-id="396435" id="61286"/>
+                 <time minutes="41" seconds="23" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HM11" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Roman" last-name="Shirokov" shirt-name="" full-first="Roman" full-last="Shirokov"/>
+                 <player-code global-id="419044" id="67022"/>
+                 <time minutes="45" seconds="41" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HJ11" />
+               </shot>
+               <shot>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <name first-name="Ivan" last-name="Trickovski" shirt-name="" full-first="Ivan" full-last="Trickovski"/>
+                 <player-code global-id="418171" id="66549"/>
+                 <time minutes="45" seconds="16" additional-minutes="1"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VL13" />
+               </shot>
+             </shots>
+             <substitutions>
+             </substitutions>
+             <red-cards>
+             </red-cards>
+             <yellow-cards>
+               <yellow-card>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <time minutes="29" seconds="24" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Bruno" last-name="Alves" shirt-name="" full-first="Bruno" full-last="Alves"/>
+                   <player-code global-id="349050" id="43850"/>
+                 </player-cautioned>
+               </yellow-card>
+               <yellow-card>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <time minutes="35" seconds="31" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="" last-name="Danny" shirt-name="Danny" full-first="Daniel Miguel" full-last="Alves Gomes"/>
+                   <player-code global-id="474471" id="85487"/>
+                 </player-cautioned>
+               </yellow-card>
+               <yellow-card>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <time minutes="40" seconds="6" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="" last-name="Marcelo Oliveira" shirt-name="" full-first="Jose Marcelo" full-last="De Oliveira"/>
+                   <player-code global-id="444806" id="77935"/>
+                 </player-cautioned>
+               </yellow-card>
+             </yellow-cards>
+           </half-detail>
+           <half-detail half="2">
+             <goals>
+               <goal>
+                 <goal-type type="Goal" event-number="11" event-text="Goal"/>
+                 <name first-name="Konstantin" last-name="Zyryanov" shirt-name="" full-first="Konstantin" full-last="Zyryanov"/>
+                 <player-code global-id="415181" id="67031"/>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <team-goal-credit global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <goal-number game="1" season="1"/>
+                 <time minutes="63" seconds="14" additional-minutes="0"/>
+                 <current-score>
+                   <visiting-score score="1"/>
+                   <home-score score="0"/>
+                 </current-score>
+                 <field  area="HK6" />
+                 <goal-zone zone="Bottom/Right" zone-id="4" />
+                 <goal-situation id="5" situation="Cross (Converted Cross)" />
+                 <shot-type id="2" type="Right Foot" />
+                 <assist>
+                   <name first-name="" last-name="Danny" shirt-name="Danny" full-first="Daniel Miguel" full-last="Alves Gomes"/>
+                   <player-code global-id="474471" id="85487"/>
+                 </assist>
+               </goal>
+               <goal>
+                 <goal-type type="Goal" event-number="11" event-text="Goal"/>
+                 <name first-name="Gustavo" last-name="Manduca" shirt-name="" full-first="Gustavo" full-last="Manduca"/>
+                 <player-code global-id="349079" id="43890"/>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <team-goal-credit global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <goal-number game="1" season="1"/>
+                 <time minutes="73" seconds="2" additional-minutes="0"/>
+                 <current-score>
+                   <visiting-score score="1"/>
+                   <home-score score="1"/>
+                 </current-score>
+                 <field  area="VP5" />
+                 <goal-zone zone="Middle/Left" zone-id="7" />
+                 <goal-situation id="7" situation="Goalmouth Scramble" />
+                 <shot-type id="1" type="Left Foot" />
+                 <assist>
+                   <name first-name="Helio" last-name="Pinto" shirt-name="" full-first="Helio" full-last="Pinto"/>
+                   <player-code global-id="513259" id="93481"/>
+                 </assist>
+               </goal>
+               <goal>
+                 <goal-type type="Goal" event-number="11" event-text="Goal"/>
+                 <name first-name="Ailton Jose" last-name="Almeida" shirt-name="" full-first="Ailton Jose" full-last="Almeida"/>
+                 <player-code global-id="415182" id="64885"/>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <team-goal-credit global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <goal-number game="1" season="3"/>
+                 <time minutes="75" seconds="2" additional-minutes="0"/>
+                 <current-score>
+                   <visiting-score score="1"/>
+                   <home-score score="2"/>
+                 </current-score>
+                 <field  area="VQ6" />
+                 <goal-zone zone="Bottom/Right" zone-id="4" />
+                 <goal-situation id="8" situation="Passing Sequence" />
+                 <shot-type id="2" type="Right Foot" />
+                 <assist>
+                   <name first-name="Gustavo" last-name="Manduca" shirt-name="" full-first="Gustavo" full-last="Manduca"/>
+                   <player-code global-id="349079" id="43890"/>
+                 </assist>
+               </goal>
+             </goals>
+             <shots>
+               <shot>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <name first-name="Ivan" last-name="Trickovski" shirt-name="" full-first="Ivan" full-last="Trickovski"/>
+                 <player-code global-id="418171" id="66549"/>
+                 <time minutes="49" seconds="21" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="16" description="Parried"/>
+                 <field  area="VL7" />
+               </shot>
+               <shot>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <name first-name="" last-name="Marcinho" shirt-name="" full-first="Marcio" full-last="Ivanildo da Silva"/>
+                 <player-code global-id="373384" id="26529"/>
+                 <time minutes="50" seconds="5" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VJ13" />
+               </shot>
+               <shot>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <name first-name="Ailton Jose" last-name="Almeida" shirt-name="" full-first="Ailton Jose" full-last="Almeida"/>
+                 <player-code global-id="415182" id="64885"/>
+                 <time minutes="54" seconds="51" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="" description=""/>
+                 <field  area="VN6" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Alexander" last-name="Kerzhakov" shirt-name="" full-first="Alexander" full-last="Kerzhakov"/>
+                 <player-code global-id="367842" id="15567"/>
+                 <time minutes="58" seconds="30" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="" description=""/>
+                 <field  area="HN8" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Domenico" last-name="Criscito" shirt-name="" full-first="Domenico" full-last="Criscito"/>
+                 <player-code global-id="396435" id="61286"/>
+                 <time minutes="60" seconds="52" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HT16" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Konstantin" last-name="Zyryanov" shirt-name="" full-first="Konstantin" full-last="Zyryanov"/>
+                 <player-code global-id="415181" id="67031"/>
+                 <time minutes="63" seconds="13" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HK6" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Konstantin" last-name="Zyryanov" shirt-name="" full-first="Konstantin" full-last="Zyryanov"/>
+                 <player-code global-id="415181" id="67031"/>
+                 <time minutes="63" seconds="14" additional-minutes="0"/>
+                 <type type="Right Foot" event-number="11"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="11" description="Goal"/>
+                 <field  area="HK6" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Alexander" last-name="Kerzhakov" shirt-name="" full-first="Alexander" full-last="Kerzhakov"/>
+                 <player-code global-id="367842" id="15567"/>
+                 <time minutes="65" seconds="3" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HL4" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Alexander" last-name="Kerzhakov" shirt-name="" full-first="Alexander" full-last="Kerzhakov"/>
+                 <player-code global-id="367842" id="15567"/>
+                 <time minutes="65" seconds="36" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HK8" />
+               </shot>
+               <shot>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <name first-name="Gustavo" last-name="Manduca" shirt-name="" full-first="Gustavo" full-last="Manduca"/>
+                 <player-code global-id="349079" id="43890"/>
+                 <time minutes="73" seconds="1" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VP5" />
+               </shot>
+               <shot>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <name first-name="Gustavo" last-name="Manduca" shirt-name="" full-first="Gustavo" full-last="Manduca"/>
+                 <player-code global-id="349079" id="43890"/>
+                 <time minutes="73" seconds="2" additional-minutes="0"/>
+                 <type type="Left Foot" event-number="11"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="11" description="Goal"/>
+                 <field  area="VP5" />
+               </shot>
+               <shot>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <name first-name="Ailton Jose" last-name="Almeida" shirt-name="" full-first="Ailton Jose" full-last="Almeida"/>
+                 <player-code global-id="415182" id="64885"/>
+                 <time minutes="75" seconds="1" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VQ6" />
+               </shot>
+               <shot>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <name first-name="Ailton Jose" last-name="Almeida" shirt-name="" full-first="Ailton Jose" full-last="Almeida"/>
+                 <player-code global-id="415182" id="64885"/>
+                 <time minutes="75" seconds="2" additional-minutes="0"/>
+                 <type type="Right Foot" event-number="11"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="11" description="Goal"/>
+                 <field  area="VQ6" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="" last-name="Danny" shirt-name="Danny" full-first="Daniel Miguel" full-last="Alves Gomes"/>
+                 <player-code global-id="474471" id="85487"/>
+                 <time minutes="84" seconds="26" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="19" description="Smothered"/>
+                 <field  area="HT8" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Viktor" last-name="Fayzulin" shirt-name="" full-first="Viktor" full-last="Fayzulin"/>
+                 <player-code global-id="442366" id="75514"/>
+                 <time minutes="85" seconds="39" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HL12" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Viktor" last-name="Fayzulin" shirt-name="" full-first="Viktor" full-last="Fayzulin"/>
+                 <player-code global-id="442366" id="75514"/>
+                 <time minutes="87" seconds="23" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HL6" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Nicolas" last-name="Lombaerts" shirt-name="" full-first="Nicolas" full-last="Lombaerts"/>
+                 <player-code global-id="347082" id="80496"/>
+                 <time minutes="88" seconds="52" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="" description=""/>
+                 <field  area="HP5" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Alexander" last-name="Kerzhakov" shirt-name="" full-first="Alexander" full-last="Kerzhakov"/>
+                 <player-code global-id="367842" id="15567"/>
+                 <time minutes="90" seconds="16" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HP13" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Danko" last-name="Lazovic" shirt-name="" full-first="Danko" full-last="Lazovic"/>
+                 <player-code global-id="348134" id="21625"/>
+                 <time minutes="90" seconds="2" additional-minutes="2"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="6" type="Right Foot (Free Kick)"/>
+                 <description id="" description=""/>
+                 <field  area="HO16" />
+               </shot>
+               <shot>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <name first-name="Danko" last-name="Lazovic" shirt-name="" full-first="Danko" full-last="Lazovic"/>
+                 <player-code global-id="348134" id="21625"/>
+                 <time minutes="90" seconds="5" additional-minutes="4"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="6" type="Right Foot (Free Kick)"/>
+                 <description id="" description=""/>
+                 <field  area="HJ15" />
+               </shot>
+             </shots>
+             <substitutions>
+               <substitution>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <time minutes="65" seconds="49" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Sanel" last-name="Jahic" shirt-name="" full-first="Sanel" full-last="Jahic"/>
+                   <player-code global-id="444535" id="77571"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="" last-name="Marcinho" shirt-name="" full-first="Marcio" full-last="Ivanildo da Silva"/>
+                   <player-code global-id="373384" id="26529"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <time minutes="74" seconds="13" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Anthos" last-name="Solomou" shirt-name="" full-first="Anthos" full-last="Solomou"/>
+                   <player-code global-id="608505" id="114350"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Savvas" last-name="Poursaitidis" shirt-name="" full-first="Savvas" full-last="Poursaitidis"/>
+                   <player-code global-id="513260" id="93482"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <time minutes="75" seconds="51" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Viktor" last-name="Fayzulin" shirt-name="" full-first="Viktor" full-last="Fayzulin"/>
+                   <player-code global-id="442366" id="75514"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Roman" last-name="Shirokov" shirt-name="" full-first="Roman" full-last="Shirokov"/>
+                   <player-code global-id="419044" id="67022"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <time minutes="79" seconds="59" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Danko" last-name="Lazovic" shirt-name="" full-first="Danko" full-last="Lazovic"/>
+                   <player-code global-id="348134" id="21625"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Konstantin" last-name="Zyryanov" shirt-name="" full-first="Konstantin" full-last="Zyryanov"/>
+                   <player-code global-id="415181" id="67031"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <time minutes="89" seconds="26" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Nektarios" last-name="Alexandrou" shirt-name="" full-first="Nektarios" full-last="Alexandrou"/>
+                   <player-code global-id="415134" id="78030"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Gustavo" last-name="Manduca" shirt-name="" full-first="Gustavo" full-last="Manduca"/>
+                   <player-code global-id="349079" id="43890"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <time minutes="89" seconds="40" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Aleksandr" last-name="Bukharov" shirt-name="" full-first="Aleksandr" full-last="Bukharov"/>
+                   <player-code global-id="504625" id="92114"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="TomÃ¡Å¡" last-name="Hubocan" shirt-name="" full-first="Tomas" full-last="Hubocan"/>
+                   <player-code global-id="420992" id="68345"/>
+                 </player-out>
+               </substitution>
+             </substitutions>
+             <red-cards>
+               <red-card>
+                 <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg"/>
+                 <time minutes="76" seconds="36" additional-minutes="0"/>
+                 <booking-type id="3" type="Second Yellow Card"/>
+                 <player-expelled>
+                   <name first-name="Bruno" last-name="Alves" shirt-name="" full-first="Bruno" full-last="Alves"/>
+                   <player-code global-id="349050" id="43850"/>
+                 </player-expelled>
+               </red-card>
+             </red-cards>
+             <yellow-cards>
+               <yellow-card>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <time minutes="71" seconds="31" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Nuno" last-name="Morais" shirt-name="" full-first="Nuno" full-last="Morais"/>
+                   <player-code global-id="346201" id="33245"/>
+                 </player-cautioned>
+               </yellow-card>
+               <yellow-card>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <time minutes="71" seconds="36" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="" last-name="Paulo Jorge" shirt-name="Paulo Jorge" full-first="Paulo Jorge" full-last="Soares Gomes"/>
+                   <player-code global-id="349515" id="75184"/>
+                 </player-cautioned>
+               </yellow-card>
+               <yellow-card>
+                 <team-info global-id="7566" id="965" location="Apoel Nicosia" name="" alias="AN" display-name="Apoel Nicosia"/>
+                 <time minutes="79" seconds="50" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Sanel" last-name="Jahic" shirt-name="" full-first="Sanel" full-last="Jahic"/>
+                   <player-code global-id="444535" id="77571"/>
+                 </player-cautioned>
+               </yellow-card>
+             </yellow-cards>
+           </half-detail>
+         </half-details>
+         <team-stats team="visitors">
+           <minutes minutes="90"/>
+           <goals goals="1"/>
+           <assists assists="1"/>
+           <shots shots="18"/>
+           <shots-on-goal shots="2"/>
+           <saves saves="2"/>
+           <penalty-kick-attempts attempts="0"/>
+           <penalty-kick-goals goals="0"/>
+           <crosses crosses="25"/>
+           <fouls-committed fouls="12"/>
+           <offsides offsides="4"/>
+           <corner-kicks corner-kicks="4"/>
+           <yellow-cards yellow-cards="1"/>
+           <red-cards red-cards="1"/>
+           <clears clears="6"/>
+           <penalty-shootout goals="0"/>
+           <touches total="0" passes="0" interceptions="0" blocks="0"/>
+           <catches catches="0"/>
+           <tackles tackles="0"/>
+           <attacks long-ball="0" left="0" center="0" right="0"/>
+           <possession percent=""/>
+         </team-stats>
+         <team-stats team="home">
+           <minutes minutes="90"/>
+           <goals goals="2"/>
+           <assists assists="2"/>
+           <shots shots="11"/>
+           <shots-on-goal shots="4"/>
+           <saves saves="1"/>
+           <penalty-kick-attempts attempts="0"/>
+           <penalty-kick-goals goals="0"/>
+           <crosses crosses="17"/>
+           <fouls-committed fouls="18"/>
+           <offsides offsides="0"/>
+           <corner-kicks corner-kicks="2"/>
+           <yellow-cards yellow-cards="4"/>
+           <red-cards red-cards="0"/>
+           <clears clears="6"/>
+           <penalty-shootout goals="0"/>
+           <touches total="0" passes="0" interceptions="0" blocks="0"/>
+           <catches catches="0"/>
+           <tackles tackles="0"/>
+           <attacks long-ball="0" left="0" center="0" right="0"/>
+           <possession percent=""/>
+         </team-stats>
+         <goaltenders team="visitors">
+           <goaltender>
+             <name first-name="Vyacheslav" last-name="Malafeev" shirt-name="" full-first="Vyacheslav" full-last="Malafeev"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="16"/>
+             <player-code global-id="372501" id="24447"/>
+             <minutes minutes="90"/>
+             <games-started games-started="1"/>
+             <decision decision="loss"/>
+             <cumulative-record wins="0" losses="1" ties="0"/>
+             <shutouts shutouts="0"/>
+             <catches-punches catches-punches="0" catches="0"/>
+             <starter starter="Y" formation="1"/>
+             <goals-against goals="2"/>
+             <saves saves="2"/>
+             <shots-against shots="11"/>
+             <shots-on-goal-against shots="4"/>
+             <penalty-kicks faced="0" goals-against="0" penalty-shot-saves="0"/>
+             <fouls committed="0" suffered="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+           </goaltender>
+         </goaltenders>
+         <goaltenders team="home">
+           <goaltender>
+             <name first-name="Dionisios" last-name="Chiotis" shirt-name="" full-first="Dionisios" full-last="Chiotis"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="22"/>
+             <player-code global-id="349083" id="43895"/>
+             <minutes minutes="90"/>
+             <games-started games-started="1"/>
+             <decision decision="win"/>
+             <cumulative-record wins="2" losses="1" ties="0"/>
+             <shutouts shutouts="0"/>
+             <catches-punches catches-punches="0" catches="0"/>
+             <starter starter="Y" formation="1"/>
+             <goals-against goals="1"/>
+             <saves saves="1"/>
+             <shots-against shots="18"/>
+             <shots-on-goal-against shots="2"/>
+             <penalty-kicks faced="0" goals-against="0" penalty-shot-saves="0"/>
+             <fouls committed="1" suffered="1"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+           </goaltender>
+         </goaltenders>
+         <players team="visitors">
+           <player>
+             <name first-name="Vyacheslav" last-name="Malafeev" shirt-name="" full-first="Vyacheslav" full-last="Malafeev"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="16"/>
+             <player-code global-id="372501" id="24447"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="1"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Aleksandr" last-name="Anyukov" shirt-name="" full-first="Aleksandr" full-last="Anyukov"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="2"/>
+             <player-code global-id="372505" id="24452"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="2"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="TomÃ¡Å¡" last-name="Hubocan" shirt-name="" full-first="Tomas" full-last="Hubocan"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="14"/>
+             <player-code global-id="420992" id="68345"/>
+             <minutes minutes="89"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="1"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="3"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Bruno" last-name="Alves" shirt-name="" full-first="Bruno" full-last="Alves"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="3"/>
+             <player-code global-id="349050" id="43850"/>
+             <minutes minutes="76"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="4" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="1"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="4"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Nicolas" last-name="Lombaerts" shirt-name="" full-first="Nicolas" full-last="Lombaerts"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="6"/>
+             <player-code global-id="347082" id="80496"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="2"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="2"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="5"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Domenico" last-name="Criscito" shirt-name="" full-first="Domenico" full-last="Criscito"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="4"/>
+             <player-code global-id="396435" id="61286"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="2"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="4"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="6"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Igor" last-name="Denisov" shirt-name="" full-first="Igor" full-last="Denisov"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="27"/>
+             <player-code global-id="415166" id="66563"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="1"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="3" suffered="4"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="7"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Konstantin" last-name="Zyryanov" shirt-name="" full-first="Konstantin" full-last="Zyryanov"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="18"/>
+             <player-code global-id="415181" id="67031"/>
+             <minutes minutes="79"/>
+             <goals goals="1"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="2"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="8"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Roman" last-name="Shirokov" shirt-name="" full-first="Roman" full-last="Shirokov"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="15"/>
+             <player-code global-id="419044" id="67022"/>
+             <minutes minutes="75"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="3"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="9"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Alexander" last-name="Kerzhakov" shirt-name="" full-first="Alexander" full-last="Kerzhakov"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="11"/>
+             <player-code global-id="367842" id="15567"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="7"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="4"/>
+             <offsides offsides="1"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="10"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="" last-name="Danny" shirt-name="Danny" full-first="Daniel Miguel" full-last="Alves Gomes"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="10"/>
+             <player-code global-id="474471" id="85487"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="1"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="9"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="2"/>
+             <offsides offsides="3"/>
+             <corner-kicks corner-kicks="3"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="11"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Viktor" last-name="Fayzulin" shirt-name="" full-first="Viktor" full-last="Fayzulin"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="20"/>
+             <player-code global-id="442366" id="75514"/>
+             <minutes minutes="15"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="2"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="1"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="15"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Danko" last-name="Lazovic" shirt-name="" full-first="Danko" full-last="Lazovic"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="8"/>
+             <player-code global-id="348134" id="21625"/>
+             <minutes minutes="11"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="2"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="4"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="2"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="1"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="17"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Aleksandr" last-name="Bukharov" shirt-name="" full-first="Aleksandr" full-last="Bukharov"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="9"/>
+             <player-code global-id="504625" id="92114"/>
+             <minutes minutes="1"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="18"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+         </players>
+         <players team="home">
+           <player>
+             <name first-name="Dionisios" last-name="Chiotis" shirt-name="" full-first="Dionisios" full-last="Chiotis"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="22"/>
+             <player-code global-id="349083" id="43895"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="1"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Savvas" last-name="Poursaitidis" shirt-name="" full-first="Savvas" full-last="Poursaitidis"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="7"/>
+             <player-code global-id="513260" id="93482"/>
+             <minutes minutes="74"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="1"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="2"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="" last-name="Paulo Jorge" shirt-name="Paulo Jorge" full-first="Paulo Jorge" full-last="Soares Gomes"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="3"/>
+             <player-code global-id="349515" id="75184"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="3"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="" last-name="Marcelo Oliveira" shirt-name="" full-first="Jose Marcelo" full-last="De Oliveira"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="6"/>
+             <player-code global-id="444806" id="77935"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="2" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="4"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="William" last-name="Boaventura" shirt-name="" full-first="William" full-last="Boaventura"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="98"/>
+             <player-code global-id="516346" id="94069"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="1"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="2" suffered="2"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="5"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Helio" last-name="Pinto" shirt-name="" full-first="Helio" full-last="Pinto"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="23"/>
+             <player-code global-id="513259" id="93481"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="1"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="2"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="6"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Nuno" last-name="Morais" shirt-name="" full-first="Nuno" full-last="Morais"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="26"/>
+             <player-code global-id="346201" id="33245"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="4" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="7"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Ivan" last-name="Trickovski" shirt-name="" full-first="Ivan" full-last="Trickovski"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="11"/>
+             <player-code global-id="418171" id="66549"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="4"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="3"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="2" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="2"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="8"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="" last-name="Marcinho" shirt-name="" full-first="Marcio" full-last="Ivanildo da Silva"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="81"/>
+             <player-code global-id="373384" id="26529"/>
+             <minutes minutes="65"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="2"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="3" suffered="4"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="9"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Gustavo" last-name="Manduca" shirt-name="" full-first="Gustavo" full-last="Manduca"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="21"/>
+             <player-code global-id="349079" id="43890"/>
+             <minutes minutes="89"/>
+             <goals goals="1"/>
+             <assists assists="1"/>
+             <shots shots="3"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="4"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="10"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Ailton Jose" last-name="Almeida" shirt-name="" full-first="Ailton Jose" full-last="Almeida"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="8"/>
+             <player-code global-id="415182" id="64885"/>
+             <minutes minutes="90"/>
+             <goals goals="1"/>
+             <assists assists="0"/>
+             <shots shots="3"/>
+             <shots-on-goal shots="2"/>
+             <crosses crosses="4"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="2" suffered="4"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="11"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Sanel" last-name="Jahic" shirt-name="" full-first="Sanel" full-last="Jahic"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="5"/>
+             <player-code global-id="444535" id="77571"/>
+             <minutes minutes="25"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="2" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="13"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Nektarios" last-name="Alexandrou" shirt-name="" full-first="Nektarios" full-last="Alexandrou"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="29"/>
+             <player-code global-id="415134" id="78030"/>
+             <minutes minutes="1"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="16"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Anthos" last-name="Solomou" shirt-name="" full-first="Anthos" full-last="Solomou"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="77"/>
+             <player-code global-id="608505" id="114350"/>
+             <minutes minutes="16"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="17"/>
+             <touches total="0" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+         </players>
+         <bench team="visitors">
+           <player>
+             <name first-name="Aleksandar" last-name="Lukovic" shirt-name="" full-first="Aleksandar" full-last="Lukovic"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="24"/>
+             <player-code global-id="346359" id="1732"/>
+           </player>
+           <player>
+             <name first-name="Alessandro" last-name="Rosina" shirt-name="" full-first="Alessandro" full-last="Rosina"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="17"/>
+             <player-code global-id="346578" id="18908"/>
+           </player>
+           <player>
+             <name first-name="Szabolcs" last-name="Huszti" shirt-name="" full-first="Szabolcs" full-last="Huszti"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="23"/>
+             <player-code global-id="406086" id="62911"/>
+           </player>
+           <player>
+             <name first-name="Yuri" last-name="Zhevnov" shirt-name="" full-first="Yuri" full-last="Zhevnov"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="30"/>
+             <player-code global-id="495873" id="90742"/>
+           </player>
+         </bench>
+         <bench team="home">
+           <player>
+             <name first-name="Esteban" last-name="Solari" shirt-name="" full-first="Esteban Andres" full-last="Solari Poggio"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="9"/>
+             <player-code global-id="398507" id="61827"/>
+           </player>
+           <player>
+             <name first-name="Anastasios" last-name="Kissas" shirt-name="" full-first="Anastasios" full-last="Kissas"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="88"/>
+             <player-code global-id="513255" id="93478"/>
+           </player>
+           <player>
+             <name first-name="Constantinos" last-name="Charalambidis" shirt-name="" full-first="Constantinos" full-last="Charalambidis"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="10"/>
+             <player-code global-id="608498" id="114343"/>
+           </player>
+           <player>
+             <name first-name="Aldo" last-name="Adorno" shirt-name="" full-first="Aldo" full-last="Adorno"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="20"/>
+             <player-code global-id="608503" id="114348"/>
+           </player>
+         </bench>
+         <attendance attendance="22850"/>
+         <referee id="481321" name="Eduardo Iturralde GonzÃ¡lez"/>
+         <referee-assistant id="565921" assistant="Roberto DÃ­az PÃ©rez del Palomar"/>
+         <referee-assistant id="567230" assistant="Javier Aguilar RodrÃ­guez"/>
+         <fourth-official id="566016" official="Javier Turienzo Ãlvarez"/>
+         <weather temperature="" description=""/>
+      </ifb-boxscore>
+     </soccer-ifb-boxscores>
+  </sports-boxscores>
+</sports-statistics>

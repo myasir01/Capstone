@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-boxscores>
+    <date year="2011" month="11" date="16" day="3"/>
+    <time hour="16" minute="29" second="12" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+    <version number="4"/>
+    <league global-id="58" name="UEFA Champions" alias="CHLG" display-name=""/>
+    <season year="2011" id="1" description="2011 UEFA Champions"/>
+     <soccer-ifb-boxscores>
+      <ifb-boxscore>
+         <finalbox finalbox="true" />
+         <date year="2011" month="9" date="13" day="2"/>
+         <time hour="14" minute="45" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+         <local-game-date year="2011" month="9" date="13" day="2"/>
+         <local-time hour="19" minute="45"/>
+         <gamecode global-code="1151817" code="2011091310986"/>
+         <coverage level="5"/>
+         <aggregate-partner-game global-code=""/>
+         <game-type id="7" description="Group Stage"/>
+         <week week="9"/>
+         <gamestate status-id="4" status="Final" period="2" minutes="" seconds="" additional-minutes=""/>
+         <stadium global-id="5197" id="24" name="Stamford Bridge"/>
+         <match-number number=""/>
+         <visiting-team>
+            <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+            <team primary-color="000000" shorts-color="000000"/>
+           <record wins="0" ties="0" losses="1"/>
+            <group id="15" group="Group E"/>
+            <linescore score="0" shots="11">
+               <half half="1" score="0" shots="5"/>
+               <half half="2" score="0" shots="6"/>
+            </linescore>
+            <formation formation="4-3-3"/>
+         </visiting-team>
+         <home-team>
+            <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+            <team primary-color="0000FF" shorts-color="0000FF"/>
+           <record wins="1" ties="0" losses="0"/>
+            <group id="15" group="Group E"/>
+            <linescore score="2" shots="22">
+               <half half="1" score="0" shots="11"/>
+               <half half="2" score="2" shots="11"/>
+            </linescore>
+            <formation formation="4-3-3"/>
+         </home-team>
+         <half-details>
+           <half-detail half="1">
+             <goals>
+             </goals>
+             <shots>
+               <shot>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <name first-name="Stefan" last-name="KieÃling" shirt-name="" full-first="Stefan" full-last="Kiessling"/>
+                 <player-code global-id="345569" id="19785"/>
+                 <time minutes="1" seconds="12" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HO15" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Fernando" last-name="Torres" shirt-name="Torres" full-first="Fernando Jose" full-last="Torres Sanz"/>
+                 <player-code global-id="348509" id="17253"/>
+                 <time minutes="2" seconds="4" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VL8" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Fernando" last-name="Torres" shirt-name="Torres" full-first="Fernando Jose" full-last="Torres Sanz"/>
+                 <player-code global-id="348509" id="17253"/>
+                 <time minutes="10" seconds="38" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="16" description="Parried"/>
+                 <field  area="VO5" />
+               </shot>
+               <shot>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <name first-name="Sidney" last-name="Sam" shirt-name="" full-first="Sidney" full-last="Sam"/>
+                 <player-code global-id="345777" id="41570"/>
+                 <time minutes="12" seconds="2" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="16" description="Parried"/>
+                 <field  area="HR12" />
+               </shot>
+               <shot>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <name first-name="Michael" last-name="Ballack" shirt-name="" full-first="Michael" full-last="Ballack"/>
+                 <player-code global-id="330395" id="4238"/>
+                 <time minutes="17" seconds="3" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="6" type="Right Foot (Free Kick)"/>
+                 <description id="" description=""/>
+                 <field  area="HP13" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Florent" last-name="Malouda" shirt-name="Malouda" full-first="Florent" full-last="Malouda"/>
+                 <player-code global-id="347561" id="18431"/>
+                 <time minutes="17" seconds="57" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="" description=""/>
+                 <field  area="VP16" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Fernando" last-name="Torres" shirt-name="Torres" full-first="Fernando Jose" full-last="Torres Sanz"/>
+                 <player-code global-id="348509" id="17253"/>
+                 <time minutes="19" seconds="59" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="19" description="Smothered"/>
+                 <field  area="VN5" />
+               </shot>
+               <shot>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <name first-name="Andre" last-name="Schurrle" shirt-name="" full-first="Andre" full-last="Schurrle"/>
+                 <player-code global-id="504595" id="92089"/>
+                 <time minutes="20" seconds="37" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="16" description="Parried"/>
+                 <field  area="HO13" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Juan" last-name="Mata" shirt-name="" full-first="Juan Manuel" full-last="Mata Garcia"/>
+                 <player-code global-id="396446" id="61297"/>
+                 <time minutes="30" seconds="30" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="5" type="Left Foot (Free Kick)"/>
+                 <description id="" description=""/>
+                 <field  area="VG11" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Daniel" last-name="Sturridge" shirt-name="" full-first="Daniel" full-last="Sturridge"/>
+                 <player-code global-id="376241" id="60519"/>
+                 <time minutes="32" seconds="59" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="11" description="Punch Save"/>
+                 <field  area="VF11" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Fernando" last-name="Torres" shirt-name="Torres" full-first="Fernando Jose" full-last="Torres Sanz"/>
+                 <player-code global-id="348509" id="17253"/>
+                 <time minutes="33" seconds="50" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VP14" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Branislav" last-name="Ivanovic" shirt-name="" full-first="Branislav" full-last="Ivanovic"/>
+                 <player-code global-id="415200" id="76962"/>
+                 <time minutes="36" seconds="28" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="16" description="Parried"/>
+                 <field  area="VN6" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="John Obi" last-name="Mikel" shirt-name="" full-first="John Michael" full-last="Nchekwube Obinna"/>
+                 <player-code global-id="330396" id="41737"/>
+                 <time minutes="39" seconds="19" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="" description=""/>
+                 <field  area="VL6" />
+               </shot>
+               <shot>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <name first-name="Stefan" last-name="KieÃling" shirt-name="" full-first="Stefan" full-last="Kiessling"/>
+                 <player-code global-id="345569" id="19785"/>
+                 <time minutes="40" seconds="3" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HR12" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Daniel" last-name="Sturridge" shirt-name="" full-first="Daniel" full-last="Sturridge"/>
+                 <player-code global-id="376241" id="60519"/>
+                 <time minutes="43" seconds="15" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VI15" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Branislav" last-name="Ivanovic" shirt-name="" full-first="Branislav" full-last="Ivanovic"/>
+                 <player-code global-id="415200" id="76962"/>
+                 <time minutes="45" seconds="31" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="1" description="Catch"/>
+                 <field  area="VM7" />
+               </shot>
+             </shots>
+             <substitutions>
+             </substitutions>
+             <red-cards>
+             </red-cards>
+             <yellow-cards>
+               <yellow-card>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <time minutes="9" seconds="29" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Fernando" last-name="Torres" shirt-name="Torres" full-first="Fernando Jose" full-last="Torres Sanz"/>
+                   <player-code global-id="348509" id="17253"/>
+                 </player-cautioned>
+               </yellow-card>
+               <yellow-card>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <time minutes="38" seconds="46" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Gonzalo" last-name="Castro" shirt-name="" full-first="Gonzalo" full-last="Castro"/>
+                   <player-code global-id="345655" id="29950"/>
+                 </player-cautioned>
+               </yellow-card>
+             </yellow-cards>
+           </half-detail>
+           <half-detail half="2">
+             <goals>
+               <goal>
+                 <goal-type type="Goal" event-number="11" event-text="Goal"/>
+                 <name first-name="" last-name="David Luiz" shirt-name="David Luiz" full-first="David Luiz" full-last="Moreira Marinho"/>
+                 <player-code global-id="409128" id="64180"/>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <team-goal-credit global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <goal-number game="1" season="1"/>
+                 <time minutes="67" seconds="27" additional-minutes="0"/>
+                 <current-score>
+                   <visiting-score score="0"/>
+                   <home-score score="1"/>
+                 </current-score>
+                 <field  area="VQ11" />
+                 <goal-zone zone="Bottom/Right" zone-id="4" />
+                 <goal-situation id="8" situation="Passing Sequence" />
+                 <shot-type id="2" type="Right Foot" />
+                 <assist>
+                   <name first-name="Fernando" last-name="Torres" shirt-name="Torres" full-first="Fernando Jose" full-last="Torres Sanz"/>
+                   <player-code global-id="348509" id="17253"/>
+                 </assist>
+               </goal>
+               <goal>
+                 <goal-type type="Goal" event-number="11" event-text="Goal"/>
+                 <name first-name="Juan" last-name="Mata" shirt-name="" full-first="Juan Manuel" full-last="Mata Garcia"/>
+                 <player-code global-id="396446" id="61297"/>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <team-goal-credit global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <goal-number game="1" season="1"/>
+                 <time minutes="90" seconds="59" additional-minutes="2"/>
+                 <current-score>
+                   <visiting-score score="0"/>
+                   <home-score score="2"/>
+                 </current-score>
+                 <field  area="VM6" />
+                 <goal-zone zone="Bottom/Right" zone-id="4" />
+                 <goal-situation id="8" situation="Passing Sequence" />
+                 <shot-type id="2" type="Right Foot" />
+                 <assist>
+                   <name first-name="Fernando" last-name="Torres" shirt-name="Torres" full-first="Fernando Jose" full-last="Torres Sanz"/>
+                   <player-code global-id="348509" id="17253"/>
+                 </assist>
+               </goal>
+             </goals>
+             <shots>
+               <shot>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <name first-name="Michael" last-name="Ballack" shirt-name="" full-first="Michael" full-last="Ballack"/>
+                 <player-code global-id="330395" id="4238"/>
+                 <time minutes="49" seconds="32" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HG10" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Daniel" last-name="Sturridge" shirt-name="" full-first="Daniel" full-last="Sturridge"/>
+                 <player-code global-id="376241" id="60519"/>
+                 <time minutes="53" seconds="1" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="1" description="Catch"/>
+                 <field  area="VO8" />
+               </shot>
+               <shot>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <name first-name="Andre" last-name="Schurrle" shirt-name="" full-first="Andre" full-last="Schurrle"/>
+                 <player-code global-id="504595" id="92089"/>
+                 <time minutes="56" seconds="11" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HQ14" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Fernando" last-name="Torres" shirt-name="Torres" full-first="Fernando Jose" full-last="Torres Sanz"/>
+                 <player-code global-id="348509" id="17253"/>
+                 <time minutes="56" seconds="57" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="2" description="Diving Catch"/>
+                 <field  area="VP5" />
+               </shot>
+               <shot>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <name first-name="Michael" last-name="Ballack" shirt-name="" full-first="Michael" full-last="Ballack"/>
+                 <player-code global-id="330395" id="4238"/>
+                 <time minutes="57" seconds="33" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="16" description="Parried"/>
+                 <field  area="HP6" />
+               </shot>
+               <shot>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <name first-name="Andre" last-name="Schurrle" shirt-name="" full-first="Andre" full-last="Schurrle"/>
+                 <player-code global-id="504595" id="92089"/>
+                 <time minutes="60" seconds="34" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="16" description="Parried"/>
+                 <field  area="HQ6" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Daniel" last-name="Sturridge" shirt-name="" full-first="Daniel" full-last="Sturridge"/>
+                 <player-code global-id="376241" id="60519"/>
+                 <time minutes="64" seconds="3" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="17" description="Deflected Around Post"/>
+                 <field  area="VM5" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Branislav" last-name="Ivanovic" shirt-name="" full-first="Branislav" full-last="Ivanovic"/>
+                 <player-code global-id="415200" id="76962"/>
+                 <time minutes="64" seconds="28" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="" description=""/>
+                 <field  area="VL4" />
+               </shot>
+               <shot>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <name first-name="Sidney" last-name="Sam" shirt-name="" full-first="Sidney" full-last="Sam"/>
+                 <player-code global-id="345777" id="41570"/>
+                 <time minutes="66" seconds="17" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="" description=""/>
+                 <field  area="HK6" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="" last-name="David Luiz" shirt-name="David Luiz" full-first="David Luiz" full-last="Moreira Marinho"/>
+                 <player-code global-id="409128" id="64180"/>
+                 <time minutes="67" seconds="26" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VQ11" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="" last-name="David Luiz" shirt-name="David Luiz" full-first="David Luiz" full-last="Moreira Marinho"/>
+                 <player-code global-id="409128" id="64180"/>
+                 <time minutes="67" seconds="27" additional-minutes="0"/>
+                 <type type="Right Foot" event-number="11"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="11" description="Goal"/>
+                 <field  area="VQ11" />
+               </shot>
+               <shot>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <name first-name="Stefan" last-name="KieÃling" shirt-name="" full-first="Stefan" full-last="Kiessling"/>
+                 <player-code global-id="345569" id="19785"/>
+                 <time minutes="69" seconds="2" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="" description=""/>
+                 <field  area="HP3" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Juan" last-name="Mata" shirt-name="" full-first="Juan Manuel" full-last="Mata Garcia"/>
+                 <player-code global-id="396446" id="61297"/>
+                 <time minutes="70" seconds="44" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="2" description="Diving Catch"/>
+                 <field  area="VI11" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Juan" last-name="Mata" shirt-name="" full-first="Juan Manuel" full-last="Mata Garcia"/>
+                 <player-code global-id="396446" id="61297"/>
+                 <time minutes="71" seconds="22" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="18" description="Deflected Over Crossbar"/>
+                 <field  area="VL8" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Nicolas" last-name="Anelka" shirt-name="" full-first="Nicolas" full-last="Anelka"/>
+                 <player-code global-id="345956" id="4908"/>
+                 <time minutes="71" seconds="55" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="" description=""/>
+                 <field  area="VO5" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Frank" last-name="Lampard" shirt-name="Lampard" full-first="Frank" full-last="Lampard"/>
+                 <player-code global-id="330391" id="3127"/>
+                 <time minutes="79" seconds="3" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="16" description="Parried"/>
+                 <field  area="VN16" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Nicolas" last-name="Anelka" shirt-name="" full-first="Nicolas" full-last="Anelka"/>
+                 <player-code global-id="345956" id="4908"/>
+                 <time minutes="90" seconds="23" additional-minutes="2"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="1" description="Catch"/>
+                 <field  area="VP8" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Juan" last-name="Mata" shirt-name="" full-first="Juan Manuel" full-last="Mata Garcia"/>
+                 <player-code global-id="396446" id="61297"/>
+                 <time minutes="90" seconds="59" additional-minutes="2"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VM6" />
+               </shot>
+               <shot>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <name first-name="Juan" last-name="Mata" shirt-name="" full-first="Juan Manuel" full-last="Mata Garcia"/>
+                 <player-code global-id="396446" id="61297"/>
+                 <time minutes="90" seconds="59" additional-minutes="2"/>
+                 <type type="Right Foot" event-number="11"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="11" description="Goal"/>
+                 <field  area="VM6" />
+               </shot>
+             </shots>
+             <substitutions>
+               <substitution>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <time minutes="64" seconds="56" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Nicolas" last-name="Anelka" shirt-name="" full-first="Nicolas" full-last="Anelka"/>
+                   <player-code global-id="345956" id="4908"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Daniel" last-name="Sturridge" shirt-name="" full-first="Daniel" full-last="Sturridge"/>
+                   <player-code global-id="376241" id="60519"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <time minutes="65" seconds="5" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Frank" last-name="Lampard" shirt-name="Lampard" full-first="Frank" full-last="Lampard"/>
+                   <player-code global-id="330391" id="3127"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Raul" last-name="Meireles" shirt-name="Meireles" full-first="Raul Jose" full-last="Meireles"/>
+                   <player-code global-id="349054" id="43854"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <time minutes="66" seconds="49" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Renato" last-name="Augusto" shirt-name="" full-first="Renato" full-last="Augusto"/>
+                   <player-code global-id="387286" id="48594"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Michael" last-name="Ballack" shirt-name="" full-first="Michael" full-last="Ballack"/>
+                   <player-code global-id="330395" id="4238"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <time minutes="73" seconds="50" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Eren" last-name="Derdiyok" shirt-name="" full-first="Eren" full-last="Derdiyok"/>
+                   <player-code global-id="402046" id="80135"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Sidney" last-name="Sam" shirt-name="" full-first="Sidney" full-last="Sam"/>
+                   <player-code global-id="345777" id="41570"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <time minutes="76" seconds="30" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="" last-name="Alex" shirt-name="Alex" full-first="Alex Rodrigo" full-last="Dias da Costa"/>
+                   <player-code global-id="348122" id="19508"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="" last-name="David Luiz" shirt-name="David Luiz" full-first="David Luiz" full-last="Moreira Marinho"/>
+                   <player-code global-id="409128" id="64180"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <time minutes="80" seconds="34" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Hanno" last-name="Balitsch" shirt-name="" full-first="Hanno" full-last="Balitsch"/>
+                   <player-code global-id="345477" id="8550"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Lars" last-name="Bender" shirt-name="" full-first="Lars" full-last="Bender"/>
+                   <player-code global-id="408155" id="63700"/>
+                 </player-out>
+               </substitution>
+             </substitutions>
+             <red-cards>
+             </red-cards>
+             <yellow-cards>
+               <yellow-card>
+                 <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea"/>
+                 <time minutes="59" seconds="51" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="" last-name="David Luiz" shirt-name="David Luiz" full-first="David Luiz" full-last="Moreira Marinho"/>
+                   <player-code global-id="409128" id="64180"/>
+                 </player-cautioned>
+               </yellow-card>
+               <yellow-card>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <time minutes="72" seconds="37" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Lars" last-name="Bender" shirt-name="" full-first="Lars" full-last="Bender"/>
+                   <player-code global-id="408155" id="63700"/>
+                 </player-cautioned>
+               </yellow-card>
+               <yellow-card>
+                 <team-info global-id="6133" id="51" location="Bayer Leverkusen" name="" alias="LEV" display-name="Bayer Leverkusen"/>
+                 <time minutes="74" seconds="21" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Eren" last-name="Derdiyok" shirt-name="" full-first="Eren" full-last="Derdiyok"/>
+                   <player-code global-id="402046" id="80135"/>
+                 </player-cautioned>
+               </yellow-card>
+             </yellow-cards>
+           </half-detail>
+         </half-details>
+         <team-stats team="visitors">
+           <minutes minutes="90"/>
+           <goals goals="0"/>
+           <assists assists="0"/>
+           <shots shots="11"/>
+           <shots-on-goal shots="2"/>
+           <saves saves="10"/>
+           <penalty-kick-attempts attempts="0"/>
+           <penalty-kick-goals goals="0"/>
+           <crosses crosses="10"/>
+           <fouls-committed fouls="24"/>
+           <offsides offsides="1"/>
+           <corner-kicks corner-kicks="2"/>
+           <yellow-cards yellow-cards="3"/>
+           <red-cards red-cards="0"/>
+           <clears clears="16"/>
+           <penalty-shootout goals="0"/>
+           <touches total="" passes="0" interceptions="0" blocks="0"/>
+           <catches catches="5"/>
+           <tackles tackles="0"/>
+           <attacks long-ball="0" left="0" center="0" right="0"/>
+           <possession percent=""/>
+         </team-stats>
+         <team-stats team="home">
+           <minutes minutes="90"/>
+           <goals goals="2"/>
+           <assists assists="2"/>
+           <shots shots="22"/>
+           <shots-on-goal shots="12"/>
+           <saves saves="2"/>
+           <penalty-kick-attempts attempts="0"/>
+           <penalty-kick-goals goals="0"/>
+           <crosses crosses="33"/>
+           <fouls-committed fouls="17"/>
+           <offsides offsides="2"/>
+           <corner-kicks corner-kicks="6"/>
+           <yellow-cards yellow-cards="2"/>
+           <red-cards red-cards="0"/>
+           <clears clears="4"/>
+           <penalty-shootout goals="0"/>
+           <touches total="" passes="0" interceptions="0" blocks="0"/>
+           <catches catches="0"/>
+           <tackles tackles="0"/>
+           <attacks long-ball="0" left="0" center="0" right="0"/>
+           <possession percent=""/>
+         </team-stats>
+         <goaltenders team="visitors">
+           <goaltender>
+             <name first-name="Bernd" last-name="Leno" shirt-name="Leno" full-first="Bernd" full-last="Leno"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="23"/>
+             <player-code global-id="554725" id="100881"/>
+             <minutes minutes="90"/>
+             <games-started games-started="1"/>
+             <decision decision="loss"/>
+             <cumulative-record wins="0" losses="1" ties="0"/>
+             <shutouts shutouts="0"/>
+             <catches-punches catches-punches="6" catches="5"/>
+             <starter starter="Y" formation="1"/>
+             <goals-against goals="2"/>
+             <saves saves="10"/>
+             <shots-against shots="22"/>
+             <shots-on-goal-against shots="12"/>
+             <penalty-kicks faced="0" goals-against="0" penalty-shot-saves="0"/>
+             <fouls committed="0" suffered="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+           </goaltender>
+         </goaltenders>
+         <goaltenders team="home">
+           <goaltender>
+             <name first-name="Petr" last-name="Cech" shirt-name="" full-first="Petr" full-last="Cech"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="1"/>
+             <player-code global-id="330263" id="18272"/>
+             <minutes minutes="90"/>
+             <games-started games-started="1"/>
+             <decision decision="win"/>
+             <cumulative-record wins="1" losses="0" ties="0"/>
+             <shutouts shutouts="1"/>
+             <catches-punches catches-punches="0" catches="0"/>
+             <starter starter="Y" formation="1"/>
+             <goals-against goals="0"/>
+             <saves saves="2"/>
+             <shots-against shots="11"/>
+             <shots-on-goal-against shots="2"/>
+             <penalty-kicks faced="0" goals-against="0" penalty-shot-saves="0"/>
+             <fouls committed="0" suffered="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+           </goaltender>
+         </goaltenders>
+         <players team="visitors">
+           <player>
+             <name first-name="Bernd" last-name="Leno" shirt-name="Leno" full-first="Bernd" full-last="Leno"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="23"/>
+             <player-code global-id="554725" id="100881"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="1"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Gonzalo" last-name="Castro" shirt-name="" full-first="Gonzalo" full-last="Castro"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="27"/>
+             <player-code global-id="345655" id="29950"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="3"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="2" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="1"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="2"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Stefan" last-name="Reinartz" shirt-name="" full-first="Stefan" full-last="Reinartz"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="3"/>
+             <player-code global-id="452212" id="80283"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="3"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Omer" last-name="Toprak" shirt-name="" full-first="Omer" full-last="Toprak"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="21"/>
+             <player-code global-id="468048" id="84433"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="2"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="4"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Michal" last-name="Kadlec" shirt-name="" full-first="Michal" full-last="Kadlec"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="24"/>
+             <player-code global-id="349603" id="46147"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="3"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="1"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="5"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Lars" last-name="Bender" shirt-name="" full-first="Lars" full-last="Bender"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="8"/>
+             <player-code global-id="408155" id="63700"/>
+             <minutes minutes="80"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="4" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="6"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Simon" last-name="Rolfes" shirt-name="" full-first="Simon" full-last="Rolfes"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="6"/>
+             <player-code global-id="345587" id="21012"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="2"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="7"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Michael" last-name="Ballack" shirt-name="" full-first="Michael" full-last="Ballack"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="13"/>
+             <player-code global-id="330395" id="4238"/>
+             <minutes minutes="66"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="3"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="4"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="8"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Sidney" last-name="Sam" shirt-name="" full-first="Sidney" full-last="Sam"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="18"/>
+             <player-code global-id="345777" id="41570"/>
+             <minutes minutes="73"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="2"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="1"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="9"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Stefan" last-name="KieÃling" shirt-name="" full-first="Stefan" full-last="Kiessling"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="11"/>
+             <player-code global-id="345569" id="19785"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="3"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="5" suffered="5"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="10"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Andre" last-name="Schurrle" shirt-name="" full-first="Andre" full-last="Schurrle"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="9"/>
+             <player-code global-id="504595" id="92089"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="3"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="3"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="5" suffered="2"/>
+             <offsides offsides="1"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="11"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Renato" last-name="Augusto" shirt-name="" full-first="Renato" full-last="Augusto"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="10"/>
+             <player-code global-id="387286" id="48594"/>
+             <minutes minutes="24"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="3" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="15"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Hanno" last-name="Balitsch" shirt-name="" full-first="Hanno" full-last="Balitsch"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="14"/>
+             <player-code global-id="345477" id="8550"/>
+             <minutes minutes="10"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="16"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Eren" last-name="Derdiyok" shirt-name="" full-first="Eren" full-last="Derdiyok"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="19"/>
+             <player-code global-id="402046" id="80135"/>
+             <minutes minutes="17"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="2" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="18"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+         </players>
+         <players team="home">
+           <player>
+             <name first-name="Petr" last-name="Cech" shirt-name="" full-first="Petr" full-last="Cech"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="1"/>
+             <player-code global-id="330263" id="18272"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="1"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="" last-name="Bosingwa" shirt-name="Bosingwa" full-first="Jose" full-last="Bosingwa da Silva"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="17"/>
+             <player-code global-id="349047" id="43847"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="5"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="2"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="2"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Branislav" last-name="Ivanovic" shirt-name="" full-first="Branislav" full-last="Ivanovic"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="2"/>
+             <player-code global-id="415200" id="76962"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="3"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="3"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="3"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="" last-name="David Luiz" shirt-name="David Luiz" full-first="David Luiz" full-last="Moreira Marinho"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="4"/>
+             <player-code global-id="409128" id="64180"/>
+             <minutes minutes="76"/>
+             <goals goals="1"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="2" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="4"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Ashley" last-name="Cole" shirt-name="" full-first="Ashley" full-last="Cole"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="3"/>
+             <player-code global-id="345854" id="2561"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="2"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="2"/>
+             <offsides offsides="1"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="5"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Florent" last-name="Malouda" shirt-name="Malouda" full-first="Florent" full-last="Malouda"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="15"/>
+             <player-code global-id="347561" id="18431"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="8"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="3" suffered="2"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="6"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="John Obi" last-name="Mikel" shirt-name="" full-first="John Michael" full-last="Nchekwube Obinna"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="12"/>
+             <player-code global-id="330396" id="41737"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="2" suffered="5"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="7"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Raul" last-name="Meireles" shirt-name="Meireles" full-first="Raul Jose" full-last="Meireles"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="16"/>
+             <player-code global-id="349054" id="43854"/>
+             <minutes minutes="65"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="2"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="3" suffered="1"/>
+             <offsides offsides="1"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="8"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Daniel" last-name="Sturridge" shirt-name="" full-first="Daniel" full-last="Sturridge"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="23"/>
+             <player-code global-id="376241" id="60519"/>
+             <minutes minutes="64"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="4"/>
+             <shots-on-goal shots="3"/>
+             <crosses crosses="1"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="4"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="9"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Fernando" last-name="Torres" shirt-name="Torres" full-first="Fernando Jose" full-last="Torres Sanz"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="9"/>
+             <player-code global-id="348509" id="17253"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="2"/>
+             <shots shots="5"/>
+             <shots-on-goal shots="2"/>
+             <crosses crosses="6"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="2" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="10"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Juan" last-name="Mata" shirt-name="" full-first="Juan Manuel" full-last="Mata Garcia"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="10"/>
+             <player-code global-id="396446" id="61297"/>
+             <minutes minutes="90"/>
+             <goals goals="1"/>
+             <assists assists="0"/>
+             <shots shots="4"/>
+             <shots-on-goal shots="3"/>
+             <crosses crosses="7"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="4"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="6"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="11"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="" last-name="Alex" shirt-name="Alex" full-first="Alex Rodrigo" full-last="Dias da Costa"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="33"/>
+             <player-code global-id="348122" id="19508"/>
+             <minutes minutes="14"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="14"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Frank" last-name="Lampard" shirt-name="Lampard" full-first="Frank" full-last="Lampard"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="8"/>
+             <player-code global-id="330391" id="3127"/>
+             <minutes minutes="25"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="15"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Nicolas" last-name="Anelka" shirt-name="" full-first="Nicolas" full-last="Anelka"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="39"/>
+             <player-code global-id="345956" id="4908"/>
+             <minutes minutes="26"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="2"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="2"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="18"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+         </players>
+         <bench team="visitors">
+           <player>
+             <name first-name="Manuel" last-name="Friedrich" shirt-name="" full-first="Manuel" full-last="Friedrich"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="5"/>
+             <player-code global-id="345588" id="21014"/>
+           </player>
+           <player>
+             <name first-name="David" last-name="Yelldell" shirt-name="" full-first="David" full-last="Yelldell"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="22"/>
+             <player-code global-id="371266" id="21713"/>
+           </player>
+           <player>
+             <name first-name="Daniel" last-name="Schwaab" shirt-name="" full-first="Daniel" full-last="Schwaab"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="2"/>
+             <player-code global-id="408241" id="63849"/>
+           </player>
+           <player>
+             <name first-name="Karim" last-name="Bellarabi" shirt-name="" full-first="Karim" full-last="Bellarabi"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="38"/>
+             <player-code global-id="552913" id="100490"/>
+           </player>
+         </bench>
+         <bench team="home">
+           <player>
+             <name first-name="Paulo" last-name="Ferreira" shirt-name="Ferreira" full-first="Paulo" full-last="Ferreira"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="19"/>
+             <player-code global-id="330267" id="24382"/>
+           </player>
+           <player>
+             <name first-name="" last-name="Hilario" shirt-name="" full-first="Henrique Hilario" full-last="Meireles Alves Sampaio"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="40"/>
+             <player-code global-id="331042" id="46785"/>
+           </player>
+           <player>
+             <name first-name="Salomon" last-name="Kalou" shirt-name="" full-first="Salomon" full-last="Kalou"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="21"/>
+             <player-code global-id="331043" id="21624"/>
+           </player>
+           <player>
+             <name first-name="Josh" last-name="McEachran" shirt-name="" full-first="Josh" full-last="McEachran"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="20"/>
+             <player-code global-id="566523" id="103256"/>
+           </player>
+         </bench>
+         <attendance attendance="33820"/>
+         <referee id="382969" name="Stephane Lannoy"/>
+         <referee-assistant id="" assistant=""/>
+         <referee-assistant id="582681" assistant="Frederic Cano"/>
+         <fourth-official id="383142" official="HervÃ© Piccirillo"/>
+         <weather temperature="" description=""/>
+      </ifb-boxscore>
+     </soccer-ifb-boxscores>
+  </sports-boxscores>
+</sports-statistics>

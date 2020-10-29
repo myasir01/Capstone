@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-boxscores>
+    <date year="2012" month="6" date="19" day="2"/>
+    <time hour="11" minute="50" second="33" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="5"/>
+    <league global-id="58" name="UEFA Champions" alias="CHLG" display-name=""/>
+    <season year="2011" id="1" description="2011 UEFA Champions"/>
+     <soccer-ifb-boxscores>
+      <ifb-boxscore>
+         <finalbox finalbox="true" />
+         <date year="2011" month="8" date="24" day="3"/>
+         <time hour="14" minute="45" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+         <local-game-date year="2011" month="8" date="24" day="3"/>
+         <local-time hour="20" minute="45"/>
+         <gamecode global-code="1079451" code="2011082411123"/>
+         <coverage level="3"/>
+         <aggregate-partner-game global-code="1079438"/>
+         <game-type id="70" description="Playoff Round 1" replay="false"/>
+         <week week="8"/>
+         <gamestate status-id="4" status="Final" period="2" minutes="" seconds="" additional-minutes=""/>
+         <stadium global-id="6096" id="528" name="UPC-Arena"/>
+         <match-number number=""/>
+         <visiting-team>
+            <team-info global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE"/>
+            <team primary-color="F6F621" shorts-color="F6F621"/>
+           <record wins="3" ties="3" losses="0"/>
+            <linescore score="2" shots="">
+               <half half="1" score="1" shots=""/>
+               <half half="2" score="1" shots=""/>
+            </linescore>
+            <formation formation="4-2-3-1"/>
+         </visiting-team>
+         <home-team>
+            <team-info global-id="8230" id="1123" location="SK Sturm Graz" name="" alias="SG" display-name="SK Sturm Graz"/>
+            <team primary-color="000000" shorts-color="000000"/>
+           <record wins="2" ties="2" losses="2"/>
+            <linescore score="0" shots="">
+               <half half="1" score="0" shots=""/>
+               <half half="2" score="0" shots=""/>
+            </linescore>
+            <formation formation="4-4-2"/>
+         </home-team>
+         <half-details>
+           <half-detail half="1">
+             <goals>
+               <goal>
+                 <goal-type type="Goal" event-number="11" event-text="Goal"/>
+                 <name first-name="Aleksandr" last-name="Volodko" shirt-name="" full-first="Aleksandr" full-last="Volodko"/>
+                 <player-code global-id="477374" id="85786"/>
+                 <team-info global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE"/>
+                 <team-goal-credit global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE"/>
+                 <goal-number game="1" season="1"/>
+                 <time minutes="36" seconds="" additional-minutes="0"/>
+                 <current-score>
+                   <visiting-score score="1"/>
+                   <home-score score="0"/>
+                 </current-score>
+                 <field  area="" />
+                 <goal-zone zone="" zone-id="" />
+                 <goal-situation id="0" situation="Unknown/Other" />
+                 <shot-type id="" type="" />
+               </goal>
+             </goals>
+             <shots>
+               <shot>
+                 <team-info global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE"/>
+                 <name first-name="Aleksandr" last-name="Volodko" shirt-name="" full-first="Aleksandr" full-last="Volodko"/>
+                 <player-code global-id="477374" id="85786"/>
+                 <time minutes="36" seconds="" additional-minutes="0"/>
+                 <type type="" event-number="11"/>
+                 <shot-type id="" type=""/>
+                 <description id="11" description="Goal"/>
+                 <field  area="" />
+               </shot>
+             </shots>
+             <substitutions>
+             </substitutions>
+             <red-cards>
+             </red-cards>
+             <yellow-cards>
+               <yellow-card>
+                 <team-info global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE"/>
+                 <time minutes="21" seconds="" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Aleksandr" last-name="Volodko" shirt-name="" full-first="Aleksandr" full-last="Volodko"/>
+                   <player-code global-id="477374" id="85786"/>
+                 </player-cautioned>
+               </yellow-card>
+               <yellow-card>
+                 <team-info global-id="8230" id="1123" location="SK Sturm Graz" name="" alias="SG" display-name="SK Sturm Graz"/>
+                 <time minutes="29" seconds="" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Joachim" last-name="Standfest" shirt-name="" full-first="Joachim" full-last="Standfest"/>
+                   <player-code global-id="401856" id="80209"/>
+                 </player-cautioned>
+               </yellow-card>
+               <yellow-card>
+                 <team-info global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE"/>
+                 <time minutes="31" seconds="" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Marko" last-name="Simic" shirt-name="" full-first="Marko" full-last="Simic"/>
+                   <player-code global-id="588379" id="107985"/>
+                 </player-cautioned>
+               </yellow-card>
+               <yellow-card>
+                 <team-info global-id="8230" id="1123" location="SK Sturm Graz" name="" alias="SG" display-name="SK Sturm Graz"/>
+                 <time minutes="42" seconds="" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Patrick" last-name="Wolf" shirt-name="" full-first="Patrick" full-last="Wolf"/>
+                   <player-code global-id="401950" id="62525"/>
+                 </player-cautioned>
+               </yellow-card>
+             </yellow-cards>
+           </half-detail>
+           <half-detail half="2">
+             <goals>
+               <goal>
+                 <goal-type type="Goal" event-number="11" event-text="Goal"/>
+                 <name first-name="Marko" last-name="Simic" shirt-name="" full-first="Marko" full-last="Simic"/>
+                 <player-code global-id="588379" id="107985"/>
+                 <team-info global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE"/>
+                 <team-goal-credit global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE"/>
+                 <goal-number game="1" season="2"/>
+                 <time minutes="69" seconds="" additional-minutes="0"/>
+                 <current-score>
+                   <visiting-score score="2"/>
+                   <home-score score="0"/>
+                 </current-score>
+                 <field  area="" />
+                 <goal-zone zone="" zone-id="" />
+                 <goal-situation id="0" situation="Unknown/Other" />
+                 <shot-type id="" type="" />
+               </goal>
+             </goals>
+             <shots>
+               <shot>
+                 <team-info global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE"/>
+                 <name first-name="Marko" last-name="Simic" shirt-name="" full-first="Marko" full-last="Simic"/>
+                 <player-code global-id="588379" id="107985"/>
+                 <time minutes="69" seconds="" additional-minutes="0"/>
+                 <type type="" event-number="11"/>
+                 <shot-type id="" type=""/>
+                 <description id="11" description="Goal"/>
+                 <field  area="" />
+               </shot>
+             </shots>
+             <substitutions>
+               <substitution>
+                 <team-info global-id="8230" id="1123" location="SK Sturm Graz" name="" alias="SG" display-name="SK Sturm Graz"/>
+                 <time minutes="46" seconds="" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Mario" last-name="Haas" shirt-name="" full-first="Mario" full-last="Haas"/>
+                   <player-code global-id="365354" id="11402"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Haris" last-name="Bukva" shirt-name="" full-first="Haris" full-last="Bukva"/>
+                   <player-code global-id="449658" id="80020"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE"/>
+                 <time minutes="59" seconds="" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Filipp" last-name="Rudik" shirt-name="" full-first="Filipp" full-last="Rudik"/>
+                   <player-code global-id="500148" id="91653"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Renan" last-name="Bressan" shirt-name="" full-first="Renan" full-last="Bressan"/>
+                   <player-code global-id="561290" id="102203"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="8230" id="1123" location="SK Sturm Graz" name="" alias="SG" display-name="SK Sturm Graz"/>
+                 <time minutes="60" seconds="" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Florian" last-name="Kainz" shirt-name="" full-first="Florian" full-last="Kainz"/>
+                   <player-code global-id="536949" id="97688"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Patrick" last-name="Wolf" shirt-name="" full-first="Patrick" full-last="Wolf"/>
+                   <player-code global-id="401950" id="62525"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE"/>
+                 <time minutes="67" seconds="" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Mikhail" last-name="Gordeychuk" shirt-name="" full-first="Mikhail" full-last="Gordeychuk"/>
+                   <player-code global-id="588381" id="107987"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Artyom" last-name="Kontsevoi" shirt-name="" full-first="Artyom" full-last="Kontsevoi"/>
+                   <player-code global-id="566427" id="103166"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="8230" id="1123" location="SK Sturm Graz" name="" alias="SG" display-name="SK Sturm Graz"/>
+                 <time minutes="74" seconds="" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Samir" last-name="Muratovic" shirt-name="" full-first="Samir" full-last="Muratovic"/>
+                   <player-code global-id="401870" id="62417"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Andreas" last-name="Holzl" shirt-name="" full-first="Andreas" full-last="Holzl"/>
+                   <player-code global-id="402003" id="62578"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE"/>
+                 <time minutes="78" seconds="" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Maksim" last-name="Bardachov" shirt-name="" full-first="Maksim" full-last="Bardachov"/>
+                   <player-code global-id="495671" id="90720"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Vitali" last-name="Rodionov" shirt-name="" full-first="Vitali" full-last="Rodionov"/>
+                   <player-code global-id="419632" id="80673"/>
+                 </player-out>
+               </substitution>
+             </substitutions>
+             <red-cards>
+             </red-cards>
+             <yellow-cards>
+               <yellow-card>
+                 <team-info global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE"/>
+                 <time minutes="54" seconds="" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Vitali" last-name="Rodionov" shirt-name="" full-first="Vitali" full-last="Rodionov"/>
+                   <player-code global-id="419632" id="80673"/>
+                 </player-cautioned>
+               </yellow-card>
+               <yellow-card>
+                 <team-info global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE"/>
+                 <time minutes="65" seconds="" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Dmitri" last-name="Baga" shirt-name="" full-first="Dmitri" full-last="Baga"/>
+                   <player-code global-id="473913" id="85341"/>
+                 </player-cautioned>
+               </yellow-card>
+             </yellow-cards>
+           </half-detail>
+         </half-details>
+         <team-stats team="visitors">
+           <minutes minutes="90"/>
+           <goals goals="2"/>
+           <assists assists=""/>
+           <shots shots=""/>
+           <shots-on-goal shots=""/>
+           <saves saves=""/>
+           <penalty-kick-attempts attempts=""/>
+           <penalty-kick-goals goals="0"/>
+           <crosses crosses=""/>
+           <fouls-committed fouls=""/>
+           <offsides offsides=""/>
+           <corner-kicks corner-kicks=""/>
+           <yellow-cards yellow-cards="4"/>
+           <red-cards red-cards="0"/>
+           <clears clears=""/>
+           <penalty-shootout goals="0"/>
+           <touches total="" passes="" interceptions="" blocks=""/>
+           <catches catches=""/>
+           <tackles tackles=""/>
+           <attacks long-ball="" left="" center="" right=""/>
+           <possession percent=""/>
+         </team-stats>
+         <team-stats team="home">
+           <minutes minutes="90"/>
+           <goals goals="0"/>
+           <assists assists=""/>
+           <shots shots=""/>
+           <shots-on-goal shots=""/>
+           <saves saves=""/>
+           <penalty-kick-attempts attempts=""/>
+           <penalty-kick-goals goals="0"/>
+           <crosses crosses=""/>
+           <fouls-committed fouls=""/>
+           <offsides offsides=""/>
+           <corner-kicks corner-kicks=""/>
+           <yellow-cards yellow-cards="2"/>
+           <red-cards red-cards="0"/>
+           <clears clears=""/>
+           <penalty-shootout goals="0"/>
+           <touches total="" passes="" interceptions="" blocks=""/>
+           <catches catches=""/>
+           <tackles tackles=""/>
+           <attacks long-ball="" left="" center="" right=""/>
+           <possession percent=""/>
+         </team-stats>
+         <goaltenders team="visitors">
+           <goaltender>
+             <name first-name="Aleksandr" last-name="Gutor" shirt-name="" full-first="Aleksandr" full-last="Gutor"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="30"/>
+             <player-code global-id="477372" id="85785"/>
+             <minutes minutes="90"/>
+             <games-started games-started="1"/>
+             <decision decision="win"/>
+             <cumulative-record wins="1" losses="0" ties="1"/>
+             <shutouts shutouts="1"/>
+             <catches-punches catches-punches="" catches=""/>
+             <starter starter="Y" formation="1"/>
+             <goals-against goals="0"/>
+             <saves saves=""/>
+             <shots-against shots=""/>
+             <shots-on-goal-against shots=""/>
+             <penalty-kicks faced="" goals-against="0" penalty-shot-saves=""/>
+             <fouls committed="" suffered=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+           </goaltender>
+         </goaltenders>
+         <goaltenders team="home">
+           <goaltender>
+             <name first-name="Christian" last-name="Gratzei" shirt-name="" full-first="Christian" full-last="Gratzei"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="1"/>
+             <player-code global-id="401954" id="80318"/>
+             <minutes minutes="90"/>
+             <games-started games-started="1"/>
+             <decision decision="loss"/>
+             <cumulative-record wins="0" losses="1" ties="1"/>
+             <shutouts shutouts="0"/>
+             <catches-punches catches-punches="" catches=""/>
+             <starter starter="Y" formation="1"/>
+             <goals-against goals="2"/>
+             <saves saves=""/>
+             <shots-against shots=""/>
+             <shots-on-goal-against shots=""/>
+             <penalty-kicks faced="" goals-against="0" penalty-shot-saves=""/>
+             <fouls committed="" suffered=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+           </goaltender>
+         </goaltenders>
+         <players team="visitors">
+           <player>
+             <name first-name="Aleksandr" last-name="Gutor" shirt-name="" full-first="Aleksandr" full-last="Gutor"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="30"/>
+             <player-code global-id="477372" id="85785"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="1"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Dmitri" last-name="Baga" shirt-name="" full-first="Dmitri" full-last="Baga"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="25"/>
+             <player-code global-id="473913" id="85341"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="2"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Yegor" last-name="Filipenko" shirt-name="" full-first="Yegor" full-last="Filipenko"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="21"/>
+             <player-code global-id="419598" id="80637"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="3"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Marko" last-name="Simic" shirt-name="" full-first="Marko" full-last="Simic"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="22"/>
+             <player-code global-id="588379" id="107985"/>
+             <minutes minutes="90"/>
+             <goals goals="1"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="4"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Aleksandr" last-name="Yurevich" shirt-name="" full-first="Aleksandr" full-last="Yurevich"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="5"/>
+             <player-code global-id="419654" id="80691"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="5"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Edgar" last-name="Olekhnovich" shirt-name="" full-first="Edgar" full-last="Olekhnovich"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="23"/>
+             <player-code global-id="561287" id="102202"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="6"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Aleksandr" last-name="Volodko" shirt-name="" full-first="Aleksandr" full-last="Volodko"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="8"/>
+             <player-code global-id="477374" id="85786"/>
+             <minutes minutes="90"/>
+             <goals goals="1"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="7"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Artyom" last-name="Kontsevoi" shirt-name="" full-first="Artyom" full-last="Kontsevoi"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="7"/>
+             <player-code global-id="566427" id="103166"/>
+             <minutes minutes="67"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="8"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Renan" last-name="Bressan" shirt-name="" full-first="Renan" full-last="Bressan"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="10"/>
+             <player-code global-id="561290" id="102203"/>
+             <minutes minutes="59"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="9"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Pavel" last-name="Nekhaychik" shirt-name="" full-first="Pavel" full-last="Nekhaychik"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="13"/>
+             <player-code global-id="592554" id="109492"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="10"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Vitali" last-name="Rodionov" shirt-name="" full-first="Vitali" full-last="Rodionov"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="20"/>
+             <player-code global-id="419632" id="80673"/>
+             <minutes minutes="78"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="11"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Mikhail" last-name="Gordeychuk" shirt-name="" full-first="Mikhail" full-last="Gordeychuk"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="11"/>
+             <player-code global-id="588381" id="107987"/>
+             <minutes minutes="23"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="14"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Maksim" last-name="Bardachov" shirt-name="" full-first="Maksim" full-last="Bardachov"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="18"/>
+             <player-code global-id="495671" id="90720"/>
+             <minutes minutes="12"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="16"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Filipp" last-name="Rudik" shirt-name="" full-first="Filipp" full-last="Rudik"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="77"/>
+             <player-code global-id="500148" id="91653"/>
+             <minutes minutes="31"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="18"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+         </players>
+         <players team="home">
+           <player>
+             <name first-name="Christian" last-name="Gratzei" shirt-name="" full-first="Christian" full-last="Gratzei"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="1"/>
+             <player-code global-id="401954" id="80318"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="1"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Joachim" last-name="Standfest" shirt-name="" full-first="Joachim" full-last="Standfest"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="18"/>
+             <player-code global-id="401856" id="80209"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="2"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Milan" last-name="Dudic" shirt-name="" full-first="Milan" full-last="Dudic"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="12"/>
+             <player-code global-id="359947" id="1611"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="3"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Thomas" last-name="Burgstaller" shirt-name="" full-first="Thomas" full-last="Burgstaller"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="13"/>
+             <player-code global-id="458608" id="82800"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="4"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Giorgi" last-name="Popkhadze" shirt-name="" full-first="Giorgi" full-last="Popkhadze"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="2"/>
+             <player-code global-id="519104" id="94309"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="5"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Andreas" last-name="Holzl" shirt-name="" full-first="Andreas" full-last="Holzl"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="8"/>
+             <player-code global-id="402003" id="62578"/>
+             <minutes minutes="74"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="6"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Manuel" last-name="Weber" shirt-name="" full-first="Manuel" full-last="Weber"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="6"/>
+             <player-code global-id="401949" id="62524"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="7"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Jurgen" last-name="Saumel" shirt-name="" full-first="Jurgen" full-last="Saumel"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="28"/>
+             <player-code global-id="401968" id="62545"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="8"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Haris" last-name="Bukva" shirt-name="" full-first="Haris" full-last="Bukva"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="9"/>
+             <player-code global-id="449658" id="80020"/>
+             <minutes minutes="45"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="9"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Imre" last-name="Szabics" shirt-name="" full-first="Imre" full-last="Szabics"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="11"/>
+             <player-code global-id="345574" id="20551"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="10"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Patrick" last-name="Wolf" shirt-name="" full-first="Patrick" full-last="Wolf"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="33"/>
+             <player-code global-id="401950" id="62525"/>
+             <minutes minutes="60"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="11"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Mario" last-name="Haas" shirt-name="" full-first="Mario" full-last="Haas"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="7"/>
+             <player-code global-id="365354" id="11402"/>
+             <minutes minutes="45"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="14"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Samir" last-name="Muratovic" shirt-name="" full-first="Samir" full-last="Muratovic"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="10"/>
+             <player-code global-id="401870" id="62417"/>
+             <minutes minutes="16"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="15"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Florian" last-name="Kainz" shirt-name="" full-first="Florian" full-last="Kainz"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="14"/>
+             <player-code global-id="536949" id="97688"/>
+             <minutes minutes="30"/>
+             <goals goals="0"/>
+             <assists assists=""/>
+             <shots shots=""/>
+             <shots-on-goal shots=""/>
+             <crosses crosses=""/>
+             <penalty-kicks shots="" goals="0"/>
+             <fouls committed="" suffered=""/>
+             <offsides offsides=""/>
+             <corner-kicks corner-kicks=""/>
+             <goal-mouth-blocks blocks=""/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="16"/>
+             <touches total="" passes="" interceptions="" blocks=""/>
+             <tackles tackles=""/>
+             <average-position location=""/>
+           </player>
+         </players>
+         <bench team="visitors">
+           <player>
+             <name first-name="Maksim" last-name="Skavysh" shirt-name="" full-first="Maksim" full-last="Skavysh"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="15"/>
+             <player-code global-id="473926" id="85354"/>
+           </player>
+           <player>
+             <name first-name="Pavel" last-name="Chasnowski" shirt-name="" full-first="Pavel" full-last="Chasnowski"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="35"/>
+             <player-code global-id="502618" id="91858"/>
+           </player>
+           <player>
+             <name first-name="Kirill" last-name="Aleksiyan" shirt-name="" full-first="Kirill" full-last="Aleksiyan"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="19"/>
+             <player-code global-id="522053" id="94843"/>
+           </player>
+           <player>
+             <name first-name="Alex" last-name="Porfirio" shirt-name="" full-first="Alex" full-last="Alex Porfirio de Lima"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="9"/>
+             <player-code global-id="608436" id="114325"/>
+           </player>
+         </bench>
+         <bench team="home">
+           <player>
+             <name first-name="Ferdinand" last-name="Feldhofer" shirt-name="" full-first="Ferdinand" full-last="Feldhofer"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="5"/>
+             <player-code global-id="401999" id="62574"/>
+           </player>
+           <player>
+             <name first-name="Silvije" last-name="Cavlina" shirt-name="" full-first="Silvije" full-last="Cavlina"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="22"/>
+             <player-code global-id="418456" id="66579"/>
+           </player>
+           <player>
+             <name first-name="Sandro" last-name="Foda" shirt-name="" full-first="Sandro" full-last="Foda"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="29"/>
+             <player-code global-id="457387" id="82577"/>
+           </player>
+           <player>
+             <name first-name="Martin" last-name="Ehrenreich" shirt-name="" full-first="Martin" full-last="Ehrenreich"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="17"/>
+             <player-code global-id="507923" id="92434"/>
+           </player>
+         </bench>
+         <attendance attendance="15000"/>
+         <referee id="481319" name="Jonas Eriksson"/>
+         <referee-assistant id="393487" assistant="Stefan Wittberg"/>
+         <referee-assistant id="568826" assistant="Mathias Klasenius"/>
+         <fourth-official id="502576" official="Markus Strombergsson"/>
+         <weather temperature="" description=""/>
+      </ifb-boxscore>
+     </soccer-ifb-boxscores>
+  </sports-boxscores>
+</sports-statistics>

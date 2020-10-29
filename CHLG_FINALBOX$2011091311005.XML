@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-boxscores>
+    <date year="2011" month="11" date="16" day="3"/>
+    <time hour="16" minute="36" second="45" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+    <version number="4"/>
+    <league global-id="58" name="UEFA Champions" alias="CHLG" display-name=""/>
+    <season year="2011" id="1" description="2011 UEFA Champions"/>
+     <soccer-ifb-boxscores>
+      <ifb-boxscore>
+         <finalbox finalbox="true" />
+         <date year="2011" month="9" date="13" day="2"/>
+         <time hour="14" minute="45" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+         <local-game-date year="2011" month="9" date="13" day="2"/>
+         <local-time hour="20" minute="45"/>
+         <gamecode global-code="1151829" code="2011091311005"/>
+         <coverage level="5"/>
+         <aggregate-partner-game global-code=""/>
+         <game-type id="7" description="Group Stage"/>
+         <week week="9"/>
+         <gamestate status-id="4" status="Final" period="2" minutes="" seconds="" additional-minutes=""/>
+         <stadium global-id="5260" id="96" name="Camp Nou"/>
+         <match-number number=""/>
+         <visiting-team>
+            <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+            <team primary-color="FFFFFF" shorts-color="FFFFFF"/>
+           <record wins="0" ties="1" losses="0"/>
+            <group id="18" group="Group H"/>
+            <linescore score="2" shots="6">
+               <half half="1" score="1" shots="4"/>
+               <half half="2" score="1" shots="2"/>
+            </linescore>
+            <formation formation="4-3-1-2"/>
+         </visiting-team>
+         <home-team>
+            <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+            <team primary-color="800000" shorts-color="0080FF"/>
+           <record wins="0" ties="1" losses="0"/>
+            <group id="18" group="Group H"/>
+            <linescore score="2" shots="21">
+               <half half="1" score="1" shots="12"/>
+               <half half="2" score="1" shots="9"/>
+            </linescore>
+            <formation formation="4-3-3"/>
+         </home-team>
+         <half-details>
+           <half-detail half="1">
+             <goals>
+               <goal>
+                 <goal-type type="Goal" event-number="11" event-text="Goal"/>
+                 <name first-name="" last-name="Pato" shirt-name="Pato" full-first="Alexandre" full-last="Rodrigues da Silva"/>
+                 <player-code global-id="387381" id="48888"/>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <team-goal-credit global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <goal-number game="1" season="1"/>
+                 <time minutes="1" seconds="24" additional-minutes="0"/>
+                 <current-score>
+                   <visiting-score score="1"/>
+                   <home-score score="0"/>
+                 </current-score>
+                 <field  area="HM11" />
+                 <goal-zone zone="Bottom/Center" zone-id="5" />
+                 <goal-situation id="10" situation="Solo" />
+                 <shot-type id="2" type="Right Foot" />
+                 <assist>
+                   <name first-name="Antonio" last-name="Nocerino" shirt-name="" full-first="Antonio" full-last="Nocerino"/>
+                   <player-code global-id="375272" id="38805"/>
+                 </assist>
+               </goal>
+               <goal>
+                 <goal-type type="Goal" event-number="11" event-text="Goal"/>
+                 <name first-name="" last-name="Pedro" shirt-name="Pedro" full-first="Pedro" full-last="Rodriguez Ledesma"/>
+                 <player-code global-id="437140" id="76972"/>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <team-goal-credit global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <goal-number game="1" season="1"/>
+                 <time minutes="36" seconds="6" additional-minutes="0"/>
+                 <current-score>
+                   <visiting-score score="1"/>
+                   <home-score score="1"/>
+                 </current-score>
+                 <field  area="VL3" />
+                 <goal-zone zone="Bottom/Right" zone-id="4" />
+                 <goal-situation id="5" situation="Cross (Converted Cross)" />
+                 <shot-type id="2" type="Right Foot" />
+                 <assist>
+                   <name first-name="Lionel" last-name="Messi" shirt-name="Messi" full-first="Lionel Andres" full-last="Messi"/>
+                   <player-code global-id="348767" id="28505"/>
+                 </assist>
+               </goal>
+             </goals>
+             <shots>
+               <shot>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <name first-name="" last-name="Pato" shirt-name="Pato" full-first="Alexandre" full-last="Rodrigues da Silva"/>
+                 <player-code global-id="387381" id="48888"/>
+                 <time minutes="1" seconds="23" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HM11" />
+               </shot>
+               <shot>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <name first-name="" last-name="Pato" shirt-name="Pato" full-first="Alexandre" full-last="Rodrigues da Silva"/>
+                 <player-code global-id="387381" id="48888"/>
+                 <time minutes="1" seconds="24" additional-minutes="0"/>
+                 <type type="Right Foot" event-number="11"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="11" description="Goal"/>
+                 <field  area="HM11" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="David" last-name="Villa" shirt-name="Villa" full-first="David" full-last="Villa"/>
+                 <player-code global-id="348651" id="20728"/>
+                 <time minutes="6" seconds="26" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VI14" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="AndrÃ©s" last-name="Iniesta" shirt-name="Iniesta" full-first="Andres" full-last="Iniesta Lujan"/>
+                 <player-code global-id="348501" id="17222"/>
+                 <time minutes="10" seconds="6" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VK11" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="Seydou" last-name="Keita" shirt-name="Keita" full-first="Seydou" full-last="Keita"/>
+                 <player-code global-id="347471" id="18092"/>
+                 <time minutes="12" seconds="55" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="" description=""/>
+                 <field  area="VM7" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="David" last-name="Villa" shirt-name="Villa" full-first="David" full-last="Villa"/>
+                 <player-code global-id="348651" id="20728"/>
+                 <time minutes="12" seconds="57" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VK2" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="Lionel" last-name="Messi" shirt-name="Messi" full-first="Lionel Andres" full-last="Messi"/>
+                 <player-code global-id="348767" id="28505"/>
+                 <time minutes="14" seconds="6" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="17" description="Deflected Around Post"/>
+                 <field  area="VN15" />
+               </shot>
+               <shot>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <name first-name="" last-name="Thiago Silva" shirt-name="Thiago Silva" full-first="Thiago Emiliano" full-last="Da Silva"/>
+                 <player-code global-id="375843" id="44611"/>
+                 <time minutes="16" seconds="1" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HU13" />
+               </shot>
+               <shot>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <name first-name="Kevin-Prince" last-name="Boateng" shirt-name="" full-first="Kevin-Prince" full-last="Boateng"/>
+                 <player-code global-id="345691" id="34023"/>
+                 <time minutes="17" seconds="15" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HJ7" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="Lionel" last-name="Messi" shirt-name="Messi" full-first="Lionel Andres" full-last="Messi"/>
+                 <player-code global-id="348767" id="28505"/>
+                 <time minutes="19" seconds="36" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="5" type="Left Foot (Free Kick)"/>
+                 <description id="" description=""/>
+                 <field  area="VM15" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="David" last-name="Villa" shirt-name="Villa" full-first="David" full-last="Villa"/>
+                 <player-code global-id="348651" id="20728"/>
+                 <time minutes="27" seconds="55" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VM7" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="Lionel" last-name="Messi" shirt-name="Messi" full-first="Lionel Andres" full-last="Messi"/>
+                 <player-code global-id="348767" id="28505"/>
+                 <time minutes="29" seconds="42" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="5" type="Left Foot (Free Kick)"/>
+                 <description id="" description=""/>
+                 <field  area="VI15" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="Lionel" last-name="Messi" shirt-name="Messi" full-first="Lionel Andres" full-last="Messi"/>
+                 <player-code global-id="348767" id="28505"/>
+                 <time minutes="30" seconds="34" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="17" description="Deflected Around Post"/>
+                 <field  area="VJ3" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="Lionel" last-name="Messi" shirt-name="Messi" full-first="Lionel Andres" full-last="Messi"/>
+                 <player-code global-id="348767" id="28505"/>
+                 <time minutes="32" seconds="15" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="2" description="Diving Catch"/>
+                 <field  area="VO13" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="" last-name="Pedro" shirt-name="Pedro" full-first="Pedro" full-last="Rodriguez Ledesma"/>
+                 <player-code global-id="437140" id="76972"/>
+                 <time minutes="36" seconds="5" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VL3" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="" last-name="Pedro" shirt-name="Pedro" full-first="Pedro" full-last="Rodriguez Ledesma"/>
+                 <player-code global-id="437140" id="76972"/>
+                 <time minutes="36" seconds="6" additional-minutes="0"/>
+                 <type type="Right Foot" event-number="11"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="11" description="Goal"/>
+                 <field  area="VL3" />
+               </shot>
+               <shot>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <name first-name="" last-name="Pato" shirt-name="Pato" full-first="Alexandre" full-last="Rodrigues da Silva"/>
+                 <player-code global-id="387381" id="48888"/>
+                 <time minutes="37" seconds="6" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="HL16" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="" last-name="Xavi" shirt-name="Xavi" full-first="Xavier" full-last="Hernandez Creus"/>
+                 <player-code global-id="348442" id="9032"/>
+                 <time minutes="45" seconds="5" additional-minutes="3"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="" description=""/>
+                 <field  area="VP13" />
+               </shot>
+             </shots>
+             <substitutions>
+               <substitution>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <time minutes="34" seconds="7" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Massimo" last-name="Ambrosini" shirt-name="" full-first="Massimo" full-last="Ambrosini"/>
+                   <player-code global-id="346409" id="2252"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Kevin-Prince" last-name="Boateng" shirt-name="" full-first="Kevin-Prince" full-last="Boateng"/>
+                   <player-code global-id="345691" id="34023"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <time minutes="39" seconds="51" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Cesc" last-name="FÃ bregas" shirt-name="" full-first="Francesc" full-last="Fabregas"/>
+                   <player-code global-id="346178" id="26185"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="AndrÃ©s" last-name="Iniesta" shirt-name="Iniesta" full-first="Andres" full-last="Iniesta Lujan"/>
+                   <player-code global-id="348501" id="17222"/>
+                 </player-out>
+               </substitution>
+             </substitutions>
+             <red-cards>
+             </red-cards>
+             <yellow-cards>
+               <yellow-card>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <time minutes="19" seconds="5" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Mark" last-name="Van Bommel" shirt-name="" full-first="Mark" full-last="Van Bommel"/>
+                   <player-code global-id="345545" id="17782"/>
+                 </player-cautioned>
+               </yellow-card>
+             </yellow-cards>
+           </half-detail>
+           <half-detail half="2">
+             <goals>
+               <goal>
+                 <goal-type type="Goal" event-number="11" event-text="Goal"/>
+                 <name first-name="David" last-name="Villa" shirt-name="Villa" full-first="David" full-last="Villa"/>
+                 <player-code global-id="348651" id="20728"/>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <team-goal-credit global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <goal-number game="1" season="1"/>
+                 <time minutes="50" seconds="20" additional-minutes="0"/>
+                 <current-score>
+                   <visiting-score score="1"/>
+                   <home-score score="2"/>
+                 </current-score>
+                 <field  area="VP15" />
+                 <goal-zone zone="Middle/Left" zone-id="7" />
+                 <goal-situation id="12" situation="Set Piece" />
+                 <shot-type id="2" type="Right Foot" />
+               </goal>
+               <goal>
+                 <goal-type type="Goal" event-number="11" event-text="Goal"/>
+                 <name first-name="" last-name="Thiago Silva" shirt-name="Thiago Silva" full-first="Thiago Emiliano" full-last="Da Silva"/>
+                 <player-code global-id="375843" id="44611"/>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <team-goal-credit global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <goal-number game="1" season="1"/>
+                 <time minutes="90" seconds="51" additional-minutes="2"/>
+                 <current-score>
+                   <visiting-score score="2"/>
+                   <home-score score="2"/>
+                 </current-score>
+                 <field  area="HO5" />
+                 <goal-zone zone="Top/Left" zone-id="1" />
+                 <goal-situation id="12" situation="Set Piece" />
+                 <shot-type id="3" type="Header" />
+                 <assist>
+                   <name first-name="Clarence" last-name="Seedorf" shirt-name="" full-first="Clarence" full-last="Seedorf"/>
+                   <player-code global-id="346396" id="2186"/>
+                 </assist>
+               </goal>
+             </goals>
+             <shots>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="" last-name="Xavi" shirt-name="Xavi" full-first="Xavier" full-last="Hernandez Creus"/>
+                 <player-code global-id="348442" id="9032"/>
+                 <time minutes="48" seconds="30" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="17" description="Deflected Around Post"/>
+                 <field  area="VL15" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="David" last-name="Villa" shirt-name="Villa" full-first="David" full-last="Villa"/>
+                 <player-code global-id="348651" id="20728"/>
+                 <time minutes="50" seconds="19" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="6" type="Right Foot (Free Kick)"/>
+                 <description id="" description=""/>
+                 <field  area="VP15" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="David" last-name="Villa" shirt-name="Villa" full-first="David" full-last="Villa"/>
+                 <player-code global-id="348651" id="20728"/>
+                 <time minutes="50" seconds="20" additional-minutes="0"/>
+                 <type type="Right Foot" event-number="11"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="11" description="Goal"/>
+                 <field  area="VP15" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="Lionel" last-name="Messi" shirt-name="Messi" full-first="Lionel Andres" full-last="Messi"/>
+                 <player-code global-id="348767" id="28505"/>
+                 <time minutes="58" seconds="40" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="5" type="Left Foot (Free Kick)"/>
+                 <description id="" description=""/>
+                 <field  area="VR13" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="" last-name="Pedro" shirt-name="Pedro" full-first="Pedro" full-last="Rodriguez Ledesma"/>
+                 <player-code global-id="437140" id="76972"/>
+                 <time minutes="59" seconds="19" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="18" description="Deflected Over Crossbar"/>
+                 <field  area="VQ10" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="" last-name="Xavi" shirt-name="Xavi" full-first="Xavier" full-last="Hernandez Creus"/>
+                 <player-code global-id="348442" id="9032"/>
+                 <time minutes="69" seconds="14" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="6" type="Right Foot (Free Kick)"/>
+                 <description id="" description=""/>
+                 <field  area="VS14" />
+               </shot>
+               <shot>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <name first-name="" last-name="Pato" shirt-name="Pato" full-first="Alexandre" full-last="Rodrigues da Silva"/>
+                 <player-code global-id="387381" id="48888"/>
+                 <time minutes="72" seconds="58" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="1" description="Catch"/>
+                 <field  area="HO8" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="Lionel" last-name="Messi" shirt-name="Messi" full-first="Lionel Andres" full-last="Messi"/>
+                 <player-code global-id="348767" id="28505"/>
+                 <time minutes="74" seconds="56" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="28" description="Blocked"/>
+                 <field  area="VN11" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="" last-name="Pedro" shirt-name="Pedro" full-first="Pedro" full-last="Rodriguez Ledesma"/>
+                 <player-code global-id="437140" id="76972"/>
+                 <time minutes="77" seconds="22" additional-minutes="0"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="1" description="Catch"/>
+                 <field  area="VK14" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="Lionel" last-name="Messi" shirt-name="Messi" full-first="Lionel Andres" full-last="Messi"/>
+                 <player-code global-id="348767" id="28505"/>
+                 <time minutes="86" seconds="35" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="1" type="Left Foot"/>
+                 <description id="28" description="Blocked"/>
+                 <field  area="VH15" />
+               </shot>
+               <shot>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <name first-name="Ibrahim" last-name="Afellay" shirt-name="Afellay" full-first="Ibrahim" full-last="Afellay"/>
+                 <player-code global-id="348167" id="23672"/>
+                 <time minutes="88" seconds="41" additional-minutes="0"/>
+                 <type type="Shot" event-number="19"/>
+                 <shot-type id="2" type="Right Foot"/>
+                 <description id="16" description="Parried"/>
+                 <field  area="VS9" />
+               </shot>
+               <shot>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <name first-name="" last-name="Thiago Silva" shirt-name="Thiago Silva" full-first="Thiago Emiliano" full-last="Da Silva"/>
+                 <player-code global-id="375843" id="44611"/>
+                 <time minutes="90" seconds="50" additional-minutes="2"/>
+                 <type type="Shot on Goal" event-number="20"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="" description=""/>
+                 <field  area="HO5" />
+               </shot>
+               <shot>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <name first-name="" last-name="Thiago Silva" shirt-name="Thiago Silva" full-first="Thiago Emiliano" full-last="Da Silva"/>
+                 <player-code global-id="375843" id="44611"/>
+                 <time minutes="90" seconds="51" additional-minutes="2"/>
+                 <type type="Header" event-number="11"/>
+                 <shot-type id="3" type="Header"/>
+                 <description id="11" description="Goal"/>
+                 <field  area="HO5" />
+               </shot>
+             </shots>
+             <substitutions>
+               <substitution>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <time minutes="62" seconds="20" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Urby" last-name="Emanuelson" shirt-name="" full-first="Urby" full-last="Emanuelson"/>
+                   <player-code global-id="348176" id="25346"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Antonio" last-name="Cassano" shirt-name="" full-first="Antonio" full-last="Cassano"/>
+                   <player-code global-id="348402" id="2445"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <time minutes="67" seconds="38" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Carles" last-name="Puyol" shirt-name="Puyol" full-first="Carles" full-last="Puyol Saforcada"/>
+                   <player-code global-id="348441" id="9029"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Seydou" last-name="Keita" shirt-name="Keita" full-first="Seydou" full-last="Keita"/>
+                   <player-code global-id="347471" id="18092"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <time minutes="78" seconds="7" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Alberto" last-name="Aquilani" shirt-name="" full-first="Alberto" full-last="Aquilani"/>
+                   <player-code global-id="346703" id="27268"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="Mark" last-name="Van Bommel" shirt-name="" full-first="Mark" full-last="Van Bommel"/>
+                   <player-code global-id="345545" id="17782"/>
+                 </player-out>
+               </substitution>
+               <substitution>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <time minutes="84" seconds="17" additional-minutes="0"/>
+                 <player-in>
+                   <name first-name="Ibrahim" last-name="Afellay" shirt-name="Afellay" full-first="Ibrahim" full-last="Afellay"/>
+                   <player-code global-id="348167" id="23672"/>
+                 </player-in>
+                 <player-out>
+                   <name first-name="David" last-name="Villa" shirt-name="Villa" full-first="David" full-last="Villa"/>
+                   <player-code global-id="348651" id="20728"/>
+                 </player-out>
+               </substitution>
+             </substitutions>
+             <red-cards>
+             </red-cards>
+             <yellow-cards>
+               <yellow-card>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <time minutes="52" seconds="14" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="David" last-name="Villa" shirt-name="Villa" full-first="David" full-last="Villa"/>
+                   <player-code global-id="348651" id="20728"/>
+                 </player-cautioned>
+               </yellow-card>
+               <yellow-card>
+                 <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan"/>
+                 <time minutes="57" seconds="25" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Alessandro" last-name="Nesta" shirt-name="" full-first="Alessandro" full-last="Nesta"/>
+                   <player-code global-id="346364" id="2022"/>
+                 </player-cautioned>
+               </yellow-card>
+               <yellow-card>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <time minutes="70" seconds="20" additional-minutes="0"/>
+                 <player-cautioned>
+                   <name first-name="Dani" last-name="Alves" shirt-name="Dani Alves" full-first="Daniel" full-last="Alves da Silva"/>
+                   <player-code global-id="348634" id="19050"/>
+                 </player-cautioned>
+               </yellow-card>
+               <yellow-card>
+                 <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+                 <time minutes="90" seconds="7" additional-minutes="3"/>
+                 <player-cautioned>
+                   <name first-name="Carles" last-name="Puyol" shirt-name="Puyol" full-first="Carles" full-last="Puyol Saforcada"/>
+                   <player-code global-id="348441" id="9029"/>
+                 </player-cautioned>
+               </yellow-card>
+             </yellow-cards>
+           </half-detail>
+         </half-details>
+         <team-stats team="visitors">
+           <minutes minutes="90"/>
+           <goals goals="2"/>
+           <assists assists="2"/>
+           <shots shots="6"/>
+           <shots-on-goal shots="3"/>
+           <saves saves="5"/>
+           <penalty-kick-attempts attempts="0"/>
+           <penalty-kick-goals goals="0"/>
+           <crosses crosses="8"/>
+           <fouls-committed fouls="10"/>
+           <offsides offsides="2"/>
+           <corner-kicks corner-kicks="2"/>
+           <yellow-cards yellow-cards="2"/>
+           <red-cards red-cards="0"/>
+           <clears clears="21"/>
+           <penalty-shootout goals="0"/>
+           <touches total="" passes="0" interceptions="0" blocks="0"/>
+           <catches catches="2"/>
+           <tackles tackles="0"/>
+           <attacks long-ball="0" left="0" center="0" right="0"/>
+           <possession percent=""/>
+         </team-stats>
+         <team-stats team="home">
+           <minutes minutes="90"/>
+           <goals goals="2"/>
+           <assists assists="1"/>
+           <shots shots="21"/>
+           <shots-on-goal shots="7"/>
+           <saves saves="1"/>
+           <penalty-kick-attempts attempts="0"/>
+           <penalty-kick-goals goals="0"/>
+           <crosses crosses="44"/>
+           <fouls-committed fouls="10"/>
+           <offsides offsides="5"/>
+           <corner-kicks corner-kicks="11"/>
+           <yellow-cards yellow-cards="3"/>
+           <red-cards red-cards="0"/>
+           <clears clears="2"/>
+           <penalty-shootout goals="0"/>
+           <touches total="" passes="0" interceptions="0" blocks="0"/>
+           <catches catches="1"/>
+           <tackles tackles="0"/>
+           <attacks long-ball="0" left="0" center="0" right="0"/>
+           <possession percent=""/>
+         </team-stats>
+         <goaltenders team="visitors">
+           <goaltender>
+             <name first-name="Christian" last-name="Abbiati" shirt-name="" full-first="Christian" full-last="Abbiati"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="32"/>
+             <player-code global-id="346470" id="14746"/>
+             <minutes minutes="90"/>
+             <games-started games-started="1"/>
+             <decision decision="ties"/>
+             <cumulative-record wins="0" losses="0" ties="1"/>
+             <shutouts shutouts="0"/>
+             <catches-punches catches-punches="2" catches="2"/>
+             <starter starter="Y" formation="1"/>
+             <goals-against goals="2"/>
+             <saves saves="5"/>
+             <shots-against shots="21"/>
+             <shots-on-goal-against shots="7"/>
+             <penalty-kicks faced="0" goals-against="0" penalty-shot-saves="0"/>
+             <fouls committed="0" suffered="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+           </goaltender>
+         </goaltenders>
+         <goaltenders team="home">
+           <goaltender>
+             <name first-name="VÃ­ctor" last-name="ValdÃ©s" shirt-name="ValdÃ©s" full-first="Victor" full-last="Valdes"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="1"/>
+             <player-code global-id="348498" id="17217"/>
+             <minutes minutes="90"/>
+             <games-started games-started="1"/>
+             <decision decision="ties"/>
+             <cumulative-record wins="0" losses="0" ties="1"/>
+             <shutouts shutouts="0"/>
+             <catches-punches catches-punches="1" catches="1"/>
+             <starter starter="Y" formation="1"/>
+             <goals-against goals="2"/>
+             <saves saves="1"/>
+             <shots-against shots="6"/>
+             <shots-on-goal-against shots="3"/>
+             <penalty-kicks faced="0" goals-against="0" penalty-shot-saves="0"/>
+             <fouls committed="0" suffered="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+           </goaltender>
+         </goaltenders>
+         <players team="visitors">
+           <player>
+             <name first-name="Christian" last-name="Abbiati" shirt-name="" full-first="Christian" full-last="Abbiati"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="32"/>
+             <player-code global-id="346470" id="14746"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="1"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Ignazio" last-name="Abate" shirt-name="" full-first="Ignazio" full-last="Abate"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="20"/>
+             <player-code global-id="373064" id="25845"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="1"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="2"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Alessandro" last-name="Nesta" shirt-name="" full-first="Alessandro" full-last="Nesta"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="13"/>
+             <player-code global-id="346364" id="2022"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="3" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="3"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="" last-name="Thiago Silva" shirt-name="Thiago Silva" full-first="Thiago Emiliano" full-last="Da Silva"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="33"/>
+             <player-code global-id="375843" id="44611"/>
+             <minutes minutes="90"/>
+             <goals goals="1"/>
+             <assists assists="0"/>
+             <shots shots="2"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="4"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Gianluca" last-name="Zambrotta" shirt-name="" full-first="Gianluca" full-last="Zambrotta"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="19"/>
+             <player-code global-id="348399" id="2324"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="1"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="2"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="5"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Antonio" last-name="Nocerino" shirt-name="" full-first="Antonio" full-last="Nocerino"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="22"/>
+             <player-code global-id="375272" id="38805"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="1"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="2"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="2"/>
+             <offsides offsides="1"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="6"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Mark" last-name="Van Bommel" shirt-name="" full-first="Mark" full-last="Van Bommel"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="4"/>
+             <player-code global-id="345545" id="17782"/>
+             <minutes minutes="78"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="7"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Clarence" last-name="Seedorf" shirt-name="" full-first="Clarence" full-last="Seedorf"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="10"/>
+             <player-code global-id="346396" id="2186"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="1"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="3"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="2" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="2"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="8"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Kevin-Prince" last-name="Boateng" shirt-name="" full-first="Kevin-Prince" full-last="Boateng"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="27"/>
+             <player-code global-id="345691" id="34023"/>
+             <minutes minutes="34"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="9"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="" last-name="Pato" shirt-name="Pato" full-first="Alexandre" full-last="Rodrigues da Silva"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="7"/>
+             <player-code global-id="387381" id="48888"/>
+             <minutes minutes="90"/>
+             <goals goals="1"/>
+             <assists assists="0"/>
+             <shots shots="3"/>
+             <shots-on-goal shots="2"/>
+             <crosses crosses="1"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="1"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="10"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Antonio" last-name="Cassano" shirt-name="" full-first="Antonio" full-last="Cassano"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="99"/>
+             <player-code global-id="348402" id="2445"/>
+             <minutes minutes="62"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="2" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="11"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Massimo" last-name="Ambrosini" shirt-name="" full-first="Massimo" full-last="Ambrosini"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="23"/>
+             <player-code global-id="346409" id="2252"/>
+             <minutes minutes="56"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="16"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Alberto" last-name="Aquilani" shirt-name="" full-first="Alberto" full-last="Aquilani"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="18"/>
+             <player-code global-id="346703" id="27268"/>
+             <minutes minutes="12"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="17"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Urby" last-name="Emanuelson" shirt-name="" full-first="Urby" full-last="Emanuelson"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="28"/>
+             <player-code global-id="348176" id="25346"/>
+             <minutes minutes="28"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="18"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+         </players>
+         <players team="home">
+           <player>
+             <name first-name="VÃ­ctor" last-name="ValdÃ©s" shirt-name="ValdÃ©s" full-first="Victor" full-last="Valdes"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="1"/>
+             <player-code global-id="348498" id="17217"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="1"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Dani" last-name="Alves" shirt-name="Dani Alves" full-first="Daniel" full-last="Alves da Silva"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="2"/>
+             <player-code global-id="348634" id="19050"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="15"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="3" suffered="0"/>
+             <offsides offsides="1"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="2"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Javier" last-name="Mascherano" shirt-name="" full-first="Javier" full-last="Mascherano"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="14"/>
+             <player-code global-id="346143" id="22348"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="3"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Sergio" last-name="Busquets" shirt-name="Sergio" full-first="Sergio" full-last="Busquets Burgos"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="16"/>
+             <player-code global-id="473187" id="85145"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="2" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="4"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Ãric" last-name="Abidal" shirt-name="Abidal" full-first="Eric" full-last="Abidal"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="22"/>
+             <player-code global-id="347565" id="18442"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="2"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="5"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="" last-name="Xavi" shirt-name="Xavi" full-first="Xavier" full-last="Hernandez Creus"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="6"/>
+             <player-code global-id="348442" id="9032"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="3"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="6"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="1"/>
+             <corner-kicks corner-kicks="7"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="6"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Seydou" last-name="Keita" shirt-name="Keita" full-first="Seydou" full-last="Keita"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="15"/>
+             <player-code global-id="347471" id="18092"/>
+             <minutes minutes="67"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="1"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="7"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="AndrÃ©s" last-name="Iniesta" shirt-name="Iniesta" full-first="Andres" full-last="Iniesta Lujan"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="8"/>
+             <player-code global-id="348501" id="17222"/>
+             <minutes minutes="39"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="2"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="8"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="" last-name="Pedro" shirt-name="Pedro" full-first="Pedro" full-last="Rodriguez Ledesma"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="17"/>
+             <player-code global-id="437140" id="76972"/>
+             <minutes minutes="90"/>
+             <goals goals="1"/>
+             <assists assists="0"/>
+             <shots shots="3"/>
+             <shots-on-goal shots="2"/>
+             <crosses crosses="2"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="2"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="9"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Lionel" last-name="Messi" shirt-name="Messi" full-first="Lionel Andres" full-last="Messi"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="10"/>
+             <player-code global-id="348767" id="28505"/>
+             <minutes minutes="90"/>
+             <goals goals="0"/>
+             <assists assists="1"/>
+             <shots shots="8"/>
+             <shots-on-goal shots="3"/>
+             <crosses crosses="8"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="6"/>
+             <offsides offsides="2"/>
+             <corner-kicks corner-kicks="2"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="10"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="David" last-name="Villa" shirt-name="Villa" full-first="David" full-last="Villa"/>
+             <player-position english="Forward" spanish=""/>
+             <player-number number="7"/>
+             <player-code global-id="348651" id="20728"/>
+             <minutes minutes="84"/>
+             <goals goals="1"/>
+             <assists assists="0"/>
+             <shots shots="4"/>
+             <shots-on-goal shots="1"/>
+             <crosses crosses="3"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="1" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="Y" formation="11"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Carles" last-name="Puyol" shirt-name="Puyol" full-first="Carles" full-last="Puyol Saforcada"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="5"/>
+             <player-code global-id="348441" id="9029"/>
+             <minutes minutes="23"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="1"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="15"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Ibrahim" last-name="Afellay" shirt-name="Afellay" full-first="Ibrahim" full-last="Afellay"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="20"/>
+             <player-code global-id="348167" id="23672"/>
+             <minutes minutes="6"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="1"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="0"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="0"/>
+             <corner-kicks corner-kicks="0"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="16"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+           <player>
+             <name first-name="Cesc" last-name="FÃ bregas" shirt-name="" full-first="Francesc" full-last="Fabregas"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="4"/>
+             <player-code global-id="346178" id="26185"/>
+             <minutes minutes="51"/>
+             <goals goals="0"/>
+             <assists assists="0"/>
+             <shots shots="0"/>
+             <shots-on-goal shots="0"/>
+             <crosses crosses="6"/>
+             <penalty-kicks shots="0" goals="0"/>
+             <fouls committed="0" suffered="0"/>
+             <offsides offsides="1"/>
+             <corner-kicks corner-kicks="2"/>
+             <goal-mouth-blocks blocks="0"/>
+             <yellow-cards yellow-cards="0"/>
+             <red-cards red-cards="0"/>
+             <penalty-shootout goals="0"/>
+             <starter starter="N" formation="17"/>
+             <touches total="" passes="0" interceptions="0" blocks="0"/>
+             <tackles tackles="0"/>
+             <average-position location=""/>
+           </player>
+         </players>
+         <bench team="visitors">
+           <player>
+             <name first-name="Marco" last-name="Amelia" shirt-name="" full-first="Marco" full-last="Amelia"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="1"/>
+             <player-code global-id="346392" id="2166"/>
+           </player>
+           <player>
+             <name first-name="Daniele" last-name="Bonera" shirt-name="" full-first="Daniele" full-last="Bonera"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="25"/>
+             <player-code global-id="346531" id="17054"/>
+           </player>
+           <player>
+             <name first-name="Luca" last-name="Antonini" shirt-name="" full-first="Luca" full-last="Antonini"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="77"/>
+             <player-code global-id="346613" id="22153"/>
+           </player>
+           <player>
+             <name first-name="Mario" last-name="Yepes" shirt-name="" full-first="Mario" full-last="Yepes"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="76"/>
+             <player-code global-id="347398" id="7566"/>
+           </player>
+         </bench>
+         <bench team="home">
+           <player>
+             <name first-name="" last-name="Maxwell" shirt-name="Maxwell" full-first="Maxwell Scherrer" full-last="Cabelino Andrade"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="19"/>
+             <player-code global-id="346567" id="17569"/>
+           </player>
+           <player>
+             <name first-name="JosÃ© Manuel" last-name="Pinto" shirt-name="Pinto" full-first="Jose Manuel" full-last="Pinto Colorado"/>
+             <player-position english="Goalkeeper" spanish=""/>
+             <player-number number="13"/>
+             <player-code global-id="348503" id="17229"/>
+           </player>
+           <player>
+             <name first-name="" last-name="Adriano" shirt-name="Adriano" full-first="Adriano" full-last="Correia Claro"/>
+             <player-position english="Defender" spanish=""/>
+             <player-number number="21"/>
+             <player-code global-id="348698" id="23002"/>
+           </player>
+           <player>
+             <name first-name="" last-name="Thiago" shirt-name="Thiago" full-first="Thiago" full-last="Alcantara do Nascimento"/>
+             <player-position english="Midfielder" spanish=""/>
+             <player-number number="11"/>
+             <player-code global-id="498511" id="91315"/>
+           </player>
+         </bench>
+         <attendance attendance="95000"/>
+         <referee id="382610" name="Martin Atkinson"/>
+         <referee-assistant id="393483" assistant="Michael Mullarkey"/>
+         <referee-assistant id="566711" assistant="Peter Kirkup"/>
+         <fourth-official id="382727" official="Mark Clattenburg"/>
+         <weather temperature="" description=""/>
+      </ifb-boxscore>
+     </soccer-ifb-boxscores>
+  </sports-boxscores>
+</sports-statistics>
